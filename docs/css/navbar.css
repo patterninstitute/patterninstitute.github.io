@@ -1,0 +1,118 @@
+.container,
+.container-fluid,
+.navbar-container {
+  width: 1040px;
+  margin: 0 auto;
+}
+
+
+.navbar-container {
+  position: relative;
+}
+
+.headroom--unpinned {
+  transform: translateY(0%) !important;
+}
+
+.navbar-expand-lg .navbar-toggler {
+  border: 0;
+  padding: 0;
+  display: block;
+  position: absolute;
+  box-shadow: none;
+  right: 0;
+}
+
+/*
+.navbar-nav {
+  visibility: hidden;
+}
+*/
+
+#quarto-search {
+  margin-right: 70px;
+}
+
+.navbar-toggler-icon {
+  width: auto;
+  height: auto;
+  display: flex;
+  font-size: 30px;
+  align-items: center;
+  background-image: none !important;
+}
+
+.navbar-toggler-icon.bi-x-lg {
+  font-size: 25px;
+}
+
+#quarto-header .navbar {
+  height: 72px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#quarto-header .navbar.navbg {
+  background-color: #222;
+  transition: all 0.3s ease 0s;
+  border-bottom: 1px solid #323232;
+}
+
+#quarto-header .navbar .navbar-nav {
+  /* margin-right: 70px; */
+  transform-origin: 100% 50%;
+  /* transition: all 0.3s ease 0s; */
+}
+
+@media (max-width: 767.98px) {
+  #quarto-header .navbar .navbar-nav {
+    top: 35px;
+    right: -15px;
+    padding: 20px 10px;
+    margin-right: 0px;
+    text-align: right;
+    position: absolute;
+    background-color: #ffffff;
+  }
+
+  #quarto-header .navbar .navbar-nav .nav-link {
+    text-align: right;
+    color: #7a77ff !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #quarto-header .navbar .navbar-nav {
+    margin-right: 0px;
+  }
+}
+
+#quarto-header .navbar .navbar-nav.nav-visible {
+  visibility: visible;
+}
+
+#quarto-header .navbar .navbar-nav.nav-invisible {
+  transform: scale(0);
+  visibility: hidden;
+}
+
+#quarto-header .navbar .navbar-nav .nav-item .nav-link {
+  color: #ffffff;
+}
+
+#quarto-header .navbar .navbar-nav .nav-item .nav-link:hover {
+  color: #7a77ff;
+}
+
+#quarto-header .navbar .menu-toggle i {
+  font-size: 24px;
+  color: #ffffff;
+}
+
+#quarto-header .navbar .menu-toggle.close-icon i {
+  font-size: 26px;
+}
+
+.navbar-logo {
+  max-height: 24px;
+}

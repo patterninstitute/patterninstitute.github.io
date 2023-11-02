@@ -1,0 +1,282 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "PATTERN INSTITUTE\nDecoding patterns, encoding systems.\n\n\n\n\nPATTERN INSTITUTE\nDecoding patterns, encoding systems.\n\n\n\n\nPATTERN INSTITUTE\nDecoding patterns, encoding systems.\n\n\n\n\nPATTERN INSTITUTE\nDecoding patterns, encoding systems.\n\n\n\n\n\nPrevious\n\n\n\nNext"
+  },
+  {
+    "objectID": "blog/posts/2023-04-04-alice-in-researchland.html",
+    "href": "blog/posts/2023-04-04-alice-in-researchland.html",
+    "title": "Alice in Researchland",
+    "section": "",
+    "text": "As part of World Cancer Day (4th Feb), the journal of Molecular Oncology invited researchers to take part in the 2023 Molecular Oncology Writing Competition aimed at highlighting how research in other areas of life sciences or technology influences the field of cancer biology and promotes cancer research.\nI decided to give it a shot and submit an essay, and received an Honourable Mention!"
+  },
+  {
+    "objectID": "blog/posts/2023-04-04-alice-in-researchland.html#prologue",
+    "href": "blog/posts/2023-04-04-alice-in-researchland.html#prologue",
+    "title": "Alice in Researchland",
+    "section": "",
+    "text": "As part of World Cancer Day (4th Feb), the journal of Molecular Oncology invited researchers to take part in the 2023 Molecular Oncology Writing Competition aimed at highlighting how research in other areas of life sciences or technology influences the field of cancer biology and promotes cancer research.\nI decided to give it a shot and submit an essay, and received an Honourable Mention!"
+  },
+  {
+    "objectID": "blog/posts/2023-04-04-alice-in-researchland.html#essay",
+    "href": "blog/posts/2023-04-04-alice-in-researchland.html#essay",
+    "title": "Alice in Researchland",
+    "section": "Essay",
+    "text": "Essay\nEver since I was little, science fiction has promised me a future where supercomputers would be the ultimate sidekicks for all scientists. Whether in the form of android assistants or soothing voices over screen interfaces, they all share the same appealing traits: great companionship and limitless knowledge.\n\n\n\n\n\nAlice in Researchland.\n\n\nAs a computational biologist, my work focuses on studying cancer causality through the use of causal inference models. Building these models is a lengthy process. Over the course of years they grow and adapt to incorporate information from new studies. To do this, I must find, read, interpret, and receive feedback from other researchers before transforming and updating the model. If it seems promising, then we can proceed to design proper lab experiments for model validation. It is a long process, with many steps, paced by the vast number of cancer-related publications that are continuously released.\nDespite my best efforts, it is impossible to keep up. There always seems to be another paper with crucial information that just came out. As a result, my models always feel incomplete, and whenever I finally update a model, I often find it is already outdated… And the cycle starts again…\nAs you can imagine, I often dream about the day when I arrive at the office to work with my all-knowing research sidekick — a super algorithm that has read every piece of text ever published by human society. This would include not just cancer research and scientific publications, but also literature, news, and websites from all over the globe. The algorithm would update every night and communicate with me using natural language. I would call it MINERVA, after the Greek goddess of science.\n“Good morning, MINERVA. Today I want to update the bladder cancer model,” said Alice.\n“Good morning, Alice. Since your last update, over 2,000 new studies came out. I identified forty-two potentially relevant ones. Shall I summarize them for you to review?” replied MINERVA.\n“Yes, please. Also, attach links to the original papers in case I want to check the details. Send them to my tablet. I will ping you the relevant ones for you to draft the updated model. I will review and refine it before sending it to our collaborators in the lab for feedback.”\n“Sure, Alice. Have a good read.”\nIt takes me about an hour to review the new data before I realize that one of the papers has conflicting information. I am not sure, so I summon MINERVA and ask:\n“MINERVA, can you clarify something for me? I think that Paper A is reporting conflicting information about non-stop mutations in Gene B. Can you confirm?”\n“Indeed, non-stop mutations in Gene B have been reported as associated and non-associated with bladder cancer in Publications O and K. The full texts are already available for your evaluation.”\n“Thank you MINERVA.”\nAs I immerse myself in my work, I feel a growing sense of confidence and purpose. I know that I am not missing out on anything. I can consult the most well informed assistant to dissipate all my doubts, clarify my assumptions, and expedite my decisions. I am genuinely performing the best science I can, limited only by my curiosity. I am the scientist I have always aspired to be.\nOnly six months ago, my dream of having an all-knowing research sidekick with whom I could talk in natural language seemed impossibly distant. But that future is now!\nArtificial intelligence (AI) research has already demonstrated its value in cancer research and in the clinic, particularly in patient stratification, image classification, and treatment management. However, recent developments in Large Language Models (LLMs) have taken AI research to new heights.\n“Large Language Models are a type of artificial intelligence system that uses deep learning algorithms to analyze and generate natural language text.” The previous sentence was generated by ChatGPT — the LLM that took the world by storm. I requested a “rigorous explanation of LLMs”, and it provided a brief and reasonably precise summary. Although it is not perfect (yet) it is undeniably impressive and constantly improving, holding the potential to accelerate cancer research in an unprecedented manner.\nLLMs can be trained quickly and accurately on all scientific literature relevant to cancer. With access to such a knowledge base, cancer researchers can: identify key connections between studies; uncover gaps in knowledge; verify whether their planned experiment has been conducted and published before; keep up-to-date with the latest developments in a concise yet meaningful manner; summarize new information for a quick overview before delving deeper into the subject; and ask questions to clarify any unclear points, as if talking to a super scholar. Sure, it requires fact checking, but isn’t that what science is all about?\nIf science is knowledge, and knowledge is power, then I would argue that AI research into LLMs is empowering cancer research by providing access to knowledge at our fingertips, freeing our time to engage in creative thinking and planning, while allowing us to focus our minds on understanding cancer. It is here to stay, and I believe it to be a true game changer."
+  },
+  {
+    "objectID": "blog/posts/2023-07-11-cooperation-agreement-ualg.html",
+    "href": "blog/posts/2023-07-11-cooperation-agreement-ualg.html",
+    "title": "Cooperation Agreement with the University of Algarve",
+    "section": "",
+    "text": "The Pattern Institute has signed a Cooperation Agreement with the University of Algarve. This is an important step to straighten the bonds between the two institutions, allowing the future establishment of specific agreements for particular projects, fostering the mutual benefit of affiliated members from both institutions."
+  },
+  {
+    "objectID": "blog/posts/first-publication.html",
+    "href": "blog/posts/first-publication.html",
+    "title": "Pattern Institute’s first paper",
+    "section": "",
+    "text": "Today, the first original research paper from a Pattern Institute researcher is published in ICES Journal of Marine Science. Ramiro Magno collaborated with researchers from CCMAR, having developed the open source R package {fishy} to implement an efficient data processing pipeline to leverage the study data analysis: quantification of the fishing GPS-tracked effort of fishing fleets.\n\n\n\n\n\nOpen source R package {fishy}.\n\n\n\nRead the full open access paper at the journal’s website: 10.1093/icesjms/fsad092."
+  },
+  {
+    "objectID": "blog/posts/2023-11-03-r-mind.html",
+    "href": "blog/posts/2023-11-03-r-mind.html",
+    "title": "R-Mind",
+    "section": "",
+    "text": "A three day R course focusing on data analysis and visualization was organized and delivered by Isabel and Ramiro. The contents comprised topics such as data wrangling, reproducible analysis, and creating visualizations with ggplot2 and patchwork. The course also touched on differential gene expression analysis, providing a thorough overview of essential data analysis tools and techniques. This course was part of the international ESN-ISN Neurochemistry School 2023.\nOpen course materials are available at: https://www.pattern.institute/rmind-workshop/."
+  },
+  {
+    "objectID": "team/mmesquita/index.html",
+    "href": "team/mmesquita/index.html",
+    "title": "Maria Mesquita",
+    "section": "",
+    "text": "With a background as a compliance officer, I am glad to help my fellows with navigating regulatory frameworks, a skill crucial for the science promotion, development, and outreach mission of the Pattern Institute.\nI believe in science as a means to shed light on our society’s shared future."
+  },
+  {
+    "objectID": "team/iduarte/index.html",
+    "href": "team/iduarte/index.html",
+    "title": "Isabel Duarte",
+    "section": "",
+    "text": "I am a full time scientist, and curiosity is my main driver. I am passionate about Open Science and I am always keen on establishing new collaborations."
+  },
+  {
+    "objectID": "team/iduarte/index.html#science",
+    "href": "team/iduarte/index.html#science",
+    "title": "Isabel Duarte",
+    "section": "Science",
+    "text": "Science\nI use Computational Biology/Bioinformatics as a way of answering biologically relevant questions. I have used OMICs datasets to study the genetic regulation of cancer, early vertebrate embryo development, stem cell differentiation, and mitochondrial evolution.\nValues | I value transparency, diplomacy, and openness. I am a strong believer in mutual respect and understanding. I advocate and apply reproducible and open research practices."
+  },
+  {
+    "objectID": "team/iduarte/index.html#hobbies",
+    "href": "team/iduarte/index.html#hobbies",
+    "title": "Isabel Duarte",
+    "section": "Hobbies",
+    "text": "Hobbies\nI love to read, to play ukulele, to think, to learn and to teach, to discuss new ideas, and to engage in outdoors activities with my friends.\nI regularly organize get-together evenings of relaxed scientific discussions or board game nights, over tea and homemade cake.\nOthers describe me as creative, curious, upbeat and reliable. I see myself as transparent."
+  },
+  {
+    "objectID": "team/jramos/index.html",
+    "href": "team/jramos/index.html",
+    "title": "João Ramos",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "team/jramos/index.html#education",
+    "href": "team/jramos/index.html#education",
+    "title": "João Ramos",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "team/jramos/index.html#experience",
+    "href": "team/jramos/index.html#experience",
+    "title": "João Ramos",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "team/pmartel/index.html",
+    "href": "team/pmartel/index.html",
+    "title": "Paulo Martel",
+    "section": "",
+    "text": "A Computational Biochemist / Bioinformatician with a particular focus on Molecular Modelling and Structural Biology.\nSome might label him a computer geek, and they wouldn’t be far off. He finds joy in Python programming, working in the Linux operating system, and criticizing Windows.\nResiding in the sunny city of Faro, he teaches at the University of Algarve, ensuring a consistent supply of Vitamin D throughout the year. Paulo also delights in playing the piano, biking, hiking, and solving Rubik’s cubes."
+  },
+  {
+    "objectID": "team/tpazevedo/index.html",
+    "href": "team/tpazevedo/index.html",
+    "title": "Tomás Pais de Azevedo",
+    "section": "",
+    "text": "I love Science, Microscopy, and Communication!\nI am an Evo-Devo Biologist with a Ph.D. in Biomedical Sciences and specialized in microscopy."
+  },
+  {
+    "objectID": "team/tpazevedo/index.html#science",
+    "href": "team/tpazevedo/index.html#science",
+    "title": "Tomás Pais de Azevedo",
+    "section": "Science",
+    "text": "Science\nIn my research, I have been challenged to find solutions to scientific problems, including building a custom-made incubation chamber, learning ancient embryological techniques, or finding genes that regulate cell fate in development. And because I believe that science is made for the community, I was happily able to publish my own and my colleague’s results by authoring or co-authoring 7 scientific papers."
+  },
+  {
+    "objectID": "team/tpazevedo/index.html#experience",
+    "href": "team/tpazevedo/index.html#experience",
+    "title": "Tomás Pais de Azevedo",
+    "section": "Experience",
+    "text": "Experience\nIn the last years, I have become manager of a Microscopy Unit, where I trained more than 60 researchers in using different microscopes. Here I had the pleasure of seeing the joy on their faces when seeing their results before their eyes and successfully immortalized in beautiful images."
+  },
+  {
+    "objectID": "team/tpazevedo/index.html#interests",
+    "href": "team/tpazevedo/index.html#interests",
+    "title": "Tomás Pais de Azevedo",
+    "section": "Interests",
+    "text": "Interests\nI am an enthusiastic science communicator and I love exciting audiences with the wonders of my work in science, having received 2 conference talk awards for that. I have also taken great delight in organizing several meetings and symposiums, alone and part of a team, and participating in various outreach activities. In these especially, I never get tired of seeing the participant’s reactions of surprise and happiness with the science shown, irrespective of age and academic level."
+  },
+  {
+    "objectID": "team/tpazevedo/index.html#hobbies",
+    "href": "team/tpazevedo/index.html#hobbies",
+    "title": "Tomás Pais de Azevedo",
+    "section": "Hobbies",
+    "text": "Hobbies\nWhen I am not solving problems or sharing my love for science, I am an avid, but modest Padel Tennis player and love exploring sci-fi and fantasy fiction."
+  },
+  {
+    "objectID": "about/org.html",
+    "href": "about/org.html",
+    "title": "Organization",
+    "section": "",
+    "text": "Board of directors\n\nRamiro Magno\nIsabel Duarte\nMaria Mesquita\n\n\n\nFiscal Council\n\nFrancisco Magno\nCarlos Ribeiro\nJoão Ramos\n\n\n\nBoard of the General Assembly\n\nTomás Pais de Azevedo\nAna Cristina Fernandes\nPaulo Martel"
+  },
+  {
+    "objectID": "about/contact.html",
+    "href": "about/contact.html",
+    "title": "We’d love to hear from you",
+    "section": "",
+    "text": "We invite you to learn more about our collaborative efforts and would be happy to share with you the projects we are working on; we value your initiative and are open to explore the field of complex systems science together.\n     email@pattern.institute."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Pattern Institute",
+    "section": "",
+    "text": "The Pattern Institute is an independent, nonprofit association that promotes scientific research, training and outreach in complexity science. By studying collective behaviors that extend beyond the isolated examination of individual parts, we seek to comprehend the intricate nature of complexity found in all scientific domains — physical, biological, social, and technological."
+  },
+  {
+    "objectID": "about/index.html#genesis",
+    "href": "about/index.html#genesis",
+    "title": "Pattern Institute",
+    "section": "Genesis",
+    "text": "Genesis\nIn May 2023, a group of scientists with a shared interest in complex systems across various scientific domains came together to establish a grassroots research center. Motivated by a desire for boundless cooperation and a creative outlet for their scientific passions, they envisioned a space where interdisciplinary collaboration could thrive. The center aims to became a venue for open dialogue and innovative thinking, attracting researchers keen on exploring the intricacies of complex systems beyond traditional academic boundaries. Through this initiative, the group laid the foundation for a cooperative and engaging environment conducive to advancing understanding and knowledge in the realm of complex systems."
+  },
+  {
+    "objectID": "about/index.html#values",
+    "href": "about/index.html#values",
+    "title": "Pattern Institute",
+    "section": "Values",
+    "text": "Values\n\nGrassroots\nAs a research institution, we champion grassroots values to foster a culture of inclusivity, participation, and collaboration among our researchers, believing that innovation flourishes when individuals are empowered and have a sense of ownership in their research endeavors.\n\n\nAdhocracy\nOur research institution values adhocracy for its ability to foster innovation through flexible structures, fluid collaboration, decentralized decision-making, and a dynamic approach to emerging challenges, creating an ecosystem that thrives on collective intelligence and the relentless pursuit of excellence.\n\n\nSkepticism\nAt our institution, we promote scientific skepticism to challenge the norm, fueling a quest for truth and innovation by encouraging questioning and the courage to explore uncharted territories, thereby fostering progress and unlocking new potential in our collective journey of discovery.\n\n\nFractional scholarship\nFractional scholarship refers to a flexible academic arrangement that allows individuals to engage in scholarly research and contribute to academic discourse, potentially alongside other professional or life commitments, without being bound to the full-time structures and constraints of traditional academia. By establishing an institution focused on fractional scholarship, we aim to unlock the untapped potential of researchers, enabling them to pursue their research interests flexibly, which enhances scholarly knowledge by allowing for a balanced engagement with other personal or occupational commitments.\n\n\nOpen Science\nThe Pattern Institute values open science, embracing a culture of transparency, accessibility, and collaborative engagement in the pursuit of expanding and sharing knowledge.\n\n\nPolymathy\nOur research center values polymathy, which is reflected in our pursuit of research questions across all fields of science, fostering a broad-based approach to inquiry and discovery.\n\n\nPlayfulness\nWe value playfulness, fostering a lively and imaginative environment that encourages creative exploration and innovative thinking in research pursuits."
+  },
+  {
+    "objectID": "team/afernandes/index.html",
+    "href": "team/afernandes/index.html",
+    "title": "Ana Cristina Maia Fernandes",
+    "section": "",
+    "text": "I am a PhD student at the University of Algarve, and I’ve always had a passion for the natural world and sciences. My journey in science is driven by my innate curiosity for nature and understanding the world around us."
+  },
+  {
+    "objectID": "team/afernandes/index.html#exploring-the-wonders-of-development",
+    "href": "team/afernandes/index.html#exploring-the-wonders-of-development",
+    "title": "Ana Cristina Maia Fernandes",
+    "section": "Exploring the wonders of Development",
+    "text": "Exploring the wonders of Development\nWithin the vast space of science, my academic focus is currently on the field of developmental biology. During development, a single cell gives rise to a fully functional organism through many processes that need to occur coordinated in Time and Space. I am particularly driven towards how these processes are regulated with proper timing, as cells don’t possess clocks, unless they actually do…"
+  },
+  {
+    "objectID": "team/afernandes/index.html#the-significance-of-outreach",
+    "href": "team/afernandes/index.html#the-significance-of-outreach",
+    "title": "Ana Cristina Maia Fernandes",
+    "section": "The significance of outreach",
+    "text": "The significance of outreach\nIn addition to my academic pursuits, I value the importance of science outreach and bringing science and knowledge closer to communities. Knowledge is power, and combined with critical thinking these are very useful allies in navigating our world, where misinformation is spreading at alarming rates. This is one of the reasons I am very happy to be member of the Pattern Institute, which is also dedicated to making science more accessible to everyone."
+  },
+  {
+    "objectID": "team/afernandes/index.html#a-glimpse-into-my-personal-interests",
+    "href": "team/afernandes/index.html#a-glimpse-into-my-personal-interests",
+    "title": "Ana Cristina Maia Fernandes",
+    "section": "A glimpse into my personal interests",
+    "text": "A glimpse into my personal interests\nI love to explore and learn new things, think and discuss ideas with my friends and peers. I love outdoor activities, particularly if those involve water. Exploring Japan, my current residence, has become one of my favorite pastimes. I also enjoy photography, even if my skill is questionable, particularly at sunset or night settings."
+  },
+  {
+    "objectID": "team/cribeiro/index.html",
+    "href": "team/cribeiro/index.html",
+    "title": "Carlos Ribeiro",
+    "section": "",
+    "text": "Carlos Jorge Azevedo Costa Ribeiro is a highly accomplished individual with extensive experience in both academia and the pharmaceutical industry. He holds a Ph.D. in Pharmacy, specializing in Pharmaceutical Chemistry and Therapeutics, from the University of Lisbon’s Faculty of Pharmacy."
+  },
+  {
+    "objectID": "team/cribeiro/index.html#research",
+    "href": "team/cribeiro/index.html#research",
+    "title": "Carlos Ribeiro",
+    "section": "Research",
+    "text": "Research\nHis research focuses on the design and synthesis of small molecule modulators targeting various biological processes, including cancer therapy."
+  },
+  {
+    "objectID": "team/cribeiro/index.html#education",
+    "href": "team/cribeiro/index.html#education",
+    "title": "Carlos Ribeiro",
+    "section": "Education",
+    "text": "Education\nHe holds an academic background in pharmaceutical sciences. Additionally, Carlos has held various roles throughout his career, including positions as a post-doc at the University of Leeds, University of Minnesota, and University of California Davis, US. His expertise extends to product development, as evident in his current roles as a Product Developer at Canneurox Portugal, S.A, and Psilo Pharma Inc."
+  },
+  {
+    "objectID": "team/fmagno/index.html",
+    "href": "team/fmagno/index.html",
+    "title": "Francisco Magno",
+    "section": "",
+    "text": "As a software engineer by profession, I recognize the increasing reliance of scientific research on computational technologies. I take satisfaction in contributing my expertise to support my team members whenever possible."
+  },
+  {
+    "objectID": "team/rmagno/index.html",
+    "href": "team/rmagno/index.html",
+    "title": "Ramiro Magno",
+    "section": "",
+    "text": "I am a Biologist turned Research Software Engineer. I’m equally passionate about Biology, Mathematics and Computer Science."
+  },
+  {
+    "objectID": "team/rmagno/index.html#research",
+    "href": "team/rmagno/index.html#research",
+    "title": "Ramiro Magno",
+    "section": "Research",
+    "text": "Research\nCurrently, I am involved in several science projects, including genomics, developmental biology, marine ecology, as well as volunteering for the improvement of clinical data reporting through data FAIRification.\nI believe in open and reproducible science for creating a more informed and educated society, capable of making evidence-based decisions."
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Team",
+    "section": "",
+    "text": "Our entirely remote team consists of driven volunteers bonded by a shared enthusiasm for promoting openness and reproducibility in research. We are an assembly of scientists, engineers, and community organizers committed to advancing research in complex systems science while cultivating a lively community.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAna Cristina Maia Fernandes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrancisco Magno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsabel Duarte\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Mesquita\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaulo Martel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRamiro Magno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomás Pais de Azevedo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/2023-10-14-quarto_wiley.html",
+    "href": "blog/posts/2023-10-14-quarto_wiley.html",
+    "title": "New Quarto Extension",
+    "section": "",
+    "text": "Ramiro has developed his first Quarto extension! This is a Quarto extension that will help you create documents for journals published by Wiley. For more about producing LaTeX output for Wiley journals, see https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/new-journal-design.html.\nThe Quarto extension is available at: https://github.com/ramiromagno/wiley-njd/."
+  },
+  {
+    "objectID": "blog/posts/encods-2023.html",
+    "href": "blog/posts/encods-2023.html",
+    "title": "Publication-ready graphs using R",
+    "section": "",
+    "text": "Today two of our researchers, Isabel and Ramiro, organised and assisted the workshop on Publication-ready graphs using R as part of workshop session 1 on second day of ENCODS 2023."
+  },
+  {
+    "objectID": "blog/posts/2023-07-05-ciencia2023.html",
+    "href": "blog/posts/2023-07-05-ciencia2023.html",
+    "title": "Pattern Institute at Ciência 2023",
+    "section": "",
+    "text": "The scientific meeting Ciência 2023 aims to discuss and showcase the current state of the Portuguese scientific landscape to an engaged audience of scientists. This year’s edition centered around the theme “Science and Ocean Beyond the Horizon” and it took place, for the first time, outside of Lisbon.\n\n\n\n\n\nRamiro Magno at Ciência 2023 at the University of Aveiro, Portugal.\n\n\nRamiro Magno attended the meeting to gain insights into the scientific panorama in Portugal, and to listen to speeches by Elvira Fortunato, the Minister of Science, Technology, and Higher Education; and Portuguese Prime Minister António Costa. Both speakers expressed profound appreciation for the scientific community and pledged to foster scientific research in Portugal. They emphasized its pivotal role in pushing the boundaries of knowledge, contributing to transformative discoveries that shape our society, and providing valuable insights for political decision-making and strengthening democratic institutions.\nAs the Pattern Institute looks to the future, its participation in such scientific gatherings will play a crucial role in fulfilling its mission. Beyond networking opportunities, these events provide a platform to disseminate the scientific works developed under the institute’s umbrella, thereby advancing its objectives."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Alice in Researchland\n\n\n\n\n\n\nIsabel Duarte\n\n\nApr 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nPublication-ready graphs using R\n\n\n\n\n\n\nIsabel Duarte\n\n\nMay 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nPattern Institute’s first paper\n\n\n\n\n\n\nIsabel Duarte\n\n\nJun 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nPattern Institute at Ciência 2023\n\n\n\n\n\n\nIsabel Duarte\n\n\nJul 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCooperation Agreement with the University of Algarve\n\n\n\n\n\n\nIsabel Duarte\n\n\nJul 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNew Quarto Extension\n\n\n\n\n\n\nRamiro Magno\n\n\nOct 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nR-Mind\n\n\n\n\n\n\nRamiro Magno\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

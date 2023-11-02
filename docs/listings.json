@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/team/index.html",
+    "items": [
+      "/team/afernandes/index.html",
+      "/team/fmagno/index.html",
+      "/team/iduarte/index.html",
+      "/team/mmesquita/index.html",
+      "/team/pmartel/index.html",
+      "/team/rmagno/index.html",
+      "/team/tpazevedo/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/2023-04-04-alice-in-researchland.html",
+      "/blog/posts/encods-2023.html",
+      "/blog/posts/first-publication.html",
+      "/blog/posts/2023-07-05-ciencia2023.html",
+      "/blog/posts/2023-07-11-cooperation-agreement-ualg.html",
+      "/blog/posts/2023-10-14-quarto_wiley.html",
+      "/blog/posts/2023-11-03-r-mind.html"
+    ]
+  }
+]

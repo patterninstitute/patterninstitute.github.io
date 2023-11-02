@@ -1,0 +1,45 @@
+.navbar {
+  background: transparent !important;
+}
+
+#hero {
+  padding-top: 0;
+}
+
+#quarto-content #hero {
+  padding-top: 0;
+}
+
+#quarto-content #hero .carousel-inner h2 {
+  position: relative;
+}
+
+#quarto-content #hero .carousel-inner h2::after {
+  left: 50%;
+  width: 50%;
+  height: 1px;
+  bottom: -5px;
+  content: '';
+  position: absolute;
+  background: #ffffff;
+  transform: translateX(-50%);
+}
+
+#hero {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+
+#hero .carousel-item {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#hero .carousel-item .carousel-caption {
+  bottom: 85px;
+}
