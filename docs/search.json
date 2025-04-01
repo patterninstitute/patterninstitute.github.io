@@ -1,80 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
+    "objectID": "legal/license.html",
+    "href": "legal/license.html",
+    "title": "License",
     "section": "",
-    "text": "PATTERN INSTITUTE\nDecoding patterns, encoding systems.\n\n\n\n\nPATTERN INSTITUTE\nDecoding patterns, encoding systems.\n\n\n\n\nPATTERN INSTITUTE\nDecoding patterns, encoding systems.\n\n\n\n\nPATTERN INSTITUTE\nDecoding patterns, encoding systems.\n\n\n\n\nPATTERN INSTITUTE\nDecoding patterns, encoding systems.\n\n\n\n\n\nPrevious\n\n\n\nNext"
+    "text": "Unless otherwise noted, all content on this website—including text, graphics, logos, and design—is the intellectual property of the Pattern Institute. All rights reserved.\nYou may not copy, reproduce, distribute, transmit, display, or create derivative works from any content on this site without prior written permission from the Pattern Institute.\nFor inquiries regarding reuse, licensing, or academic citation, please contact us at email@pattern.institute.\n\nScientific software\nSoftware developed by the Pattern Institute is released under its own license terms, which are specified in the corresponding source code repositories or documentation.\nIn general, we adopt permissive open-source licenses (such as MIT or Apache 2.0) that support transparency, reproducibility, and community reuse in scientific research. These licenses allow for modification and redistribution, provided the original license terms are respected.\nWe encourage contributions and collaboration, and our software is typically hosted on platforms such as GitHub for public access. For details on a specific project’s licensing terms, please refer to its individual repository.\n\n\nScientific data\nScientific datasets shared by the Pattern Institute are, unless otherwise stated, made available under open data principles, aligned with the FAIR (Findable, Accessible, Interoperable, Reusable) data standards.\nWhere possible, data is released under permissive licenses such as CC BY 4.0, which allow for reuse with appropriate attribution. Any restrictions due to ethical, privacy, or third-party agreements will be clearly documented in the associated metadata or landing pages.\nOur goal is to advance open science by making high-quality research data accessible to the wider community, while maintaining responsible data stewardship."
   },
   {
-    "objectID": "blog/posts/2023-04-04-alice-in-researchland.html",
-    "href": "blog/posts/2023-04-04-alice-in-researchland.html",
-    "title": "Alice in Researchland",
+    "objectID": "team/rmagno/index.html",
+    "href": "team/rmagno/index.html",
+    "title": "Ramiro Magno",
     "section": "",
-    "text": "As part of World Cancer Day (4th Feb), the journal of Molecular Oncology invited researchers to take part in the 2023 Molecular Oncology Writing Competition aimed at highlighting how research in other areas of life sciences or technology influences the field of cancer biology and promotes cancer research.\nI decided to give it a shot and submit an essay, and received an Honourable Mention!"
+    "text": "I am a Biologist turned Research Software Engineer. I’m equally passionate about Biology, Mathematics and Computer Science."
   },
   {
-    "objectID": "blog/posts/2023-04-04-alice-in-researchland.html#prologue",
-    "href": "blog/posts/2023-04-04-alice-in-researchland.html#prologue",
-    "title": "Alice in Researchland",
+    "objectID": "team/rmagno/index.html#research",
+    "href": "team/rmagno/index.html#research",
+    "title": "Ramiro Magno",
+    "section": "Research",
+    "text": "Research\nCurrently, I am involved in several science projects, including genomics, developmental biology, marine ecology, as well as volunteering for the improvement of clinical data reporting through data FAIRification.\nI believe in open and reproducible science for creating a more informed and educated society, capable of making evidence-based decisions."
+  },
+  {
+    "objectID": "team/team.html",
+    "href": "team/team.html",
+    "title": "Team",
     "section": "",
-    "text": "As part of World Cancer Day (4th Feb), the journal of Molecular Oncology invited researchers to take part in the 2023 Molecular Oncology Writing Competition aimed at highlighting how research in other areas of life sciences or technology influences the field of cancer biology and promotes cancer research.\nI decided to give it a shot and submit an essay, and received an Honourable Mention!"
-  },
-  {
-    "objectID": "blog/posts/2023-04-04-alice-in-researchland.html#essay",
-    "href": "blog/posts/2023-04-04-alice-in-researchland.html#essay",
-    "title": "Alice in Researchland",
-    "section": "Essay",
-    "text": "Essay\nEver since I was little, science fiction has promised me a future where supercomputers would be the ultimate sidekicks for all scientists. Whether in the form of android assistants or soothing voices over screen interfaces, they all share the same appealing traits: great companionship and limitless knowledge.\n\n\n\n\n\nAlice in Researchland.\n\n\nAs a computational biologist, my work focuses on studying cancer causality through the use of causal inference models. Building these models is a lengthy process. Over the course of years they grow and adapt to incorporate information from new studies. To do this, I must find, read, interpret, and receive feedback from other researchers before transforming and updating the model. If it seems promising, then we can proceed to design proper lab experiments for model validation. It is a long process, with many steps, paced by the vast number of cancer-related publications that are continuously released.\nDespite my best efforts, it is impossible to keep up. There always seems to be another paper with crucial information that just came out. As a result, my models always feel incomplete, and whenever I finally update a model, I often find it is already outdated… And the cycle starts again…\nAs you can imagine, I often dream about the day when I arrive at the office to work with my all-knowing research sidekick — a super algorithm that has read every piece of text ever published by human society. This would include not just cancer research and scientific publications, but also literature, news, and websites from all over the globe. The algorithm would update every night and communicate with me using natural language. I would call it MINERVA, after the Greek goddess of science.\n“Good morning, MINERVA. Today I want to update the bladder cancer model,” said Alice.\n“Good morning, Alice. Since your last update, over 2,000 new studies came out. I identified forty-two potentially relevant ones. Shall I summarize them for you to review?” replied MINERVA.\n“Yes, please. Also, attach links to the original papers in case I want to check the details. Send them to my tablet. I will ping you the relevant ones for you to draft the updated model. I will review and refine it before sending it to our collaborators in the lab for feedback.”\n“Sure, Alice. Have a good read.”\nIt takes me about an hour to review the new data before I realize that one of the papers has conflicting information. I am not sure, so I summon MINERVA and ask:\n“MINERVA, can you clarify something for me? I think that Paper A is reporting conflicting information about non-stop mutations in Gene B. Can you confirm?”\n“Indeed, non-stop mutations in Gene B have been reported as associated and non-associated with bladder cancer in Publications O and K. The full texts are already available for your evaluation.”\n“Thank you MINERVA.”\nAs I immerse myself in my work, I feel a growing sense of confidence and purpose. I know that I am not missing out on anything. I can consult the most well informed assistant to dissipate all my doubts, clarify my assumptions, and expedite my decisions. I am genuinely performing the best science I can, limited only by my curiosity. I am the scientist I have always aspired to be.\nOnly six months ago, my dream of having an all-knowing research sidekick with whom I could talk in natural language seemed impossibly distant. But that future is now!\nArtificial intelligence (AI) research has already demonstrated its value in cancer research and in the clinic, particularly in patient stratification, image classification, and treatment management. However, recent developments in Large Language Models (LLMs) have taken AI research to new heights.\n“Large Language Models are a type of artificial intelligence system that uses deep learning algorithms to analyze and generate natural language text.” The previous sentence was generated by ChatGPT — the LLM that took the world by storm. I requested a “rigorous explanation of LLMs”, and it provided a brief and reasonably precise summary. Although it is not perfect (yet) it is undeniably impressive and constantly improving, holding the potential to accelerate cancer research in an unprecedented manner.\nLLMs can be trained quickly and accurately on all scientific literature relevant to cancer. With access to such a knowledge base, cancer researchers can: identify key connections between studies; uncover gaps in knowledge; verify whether their planned experiment has been conducted and published before; keep up-to-date with the latest developments in a concise yet meaningful manner; summarize new information for a quick overview before delving deeper into the subject; and ask questions to clarify any unclear points, as if talking to a super scholar. Sure, it requires fact checking, but isn’t that what science is all about?\nIf science is knowledge, and knowledge is power, then I would argue that AI research into LLMs is empowering cancer research by providing access to knowledge at our fingertips, freeing our time to engage in creative thinking and planning, while allowing us to focus our minds on understanding cancer. It is here to stay, and I believe it to be a true game changer."
-  },
-  {
-    "objectID": "blog/posts/2023-07-11-cooperation-agreement-ualg.html",
-    "href": "blog/posts/2023-07-11-cooperation-agreement-ualg.html",
-    "title": "Cooperation Agreement with the University of Algarve",
-    "section": "",
-    "text": "The Pattern Institute has signed a Cooperation Agreement with the University of Algarve. This is an important step to straighten the bonds between the two institutions, allowing the future establishment of specific agreements for particular projects, fostering the mutual benefit of affiliated members from both institutions."
-  },
-  {
-    "objectID": "blog/posts/first-publication.html",
-    "href": "blog/posts/first-publication.html",
-    "title": "Pattern Institute’s first paper",
-    "section": "",
-    "text": "Today, the first original research paper from a Pattern Institute researcher is published in ICES Journal of Marine Science. Ramiro Magno collaborated with researchers from CCMAR, having developed the open source R package {fishy} to implement an efficient data processing pipeline to leverage the study data analysis: quantification of the fishing GPS-tracked effort of fishing fleets.\n\n\n\n\n\nOpen source R package {fishy}.\n\n\n\nRead the full open access paper at the journal’s website: 10.1093/icesjms/fsad092."
-  },
-  {
-    "objectID": "blog/posts/2023-11-03-r-mind.html",
-    "href": "blog/posts/2023-11-03-r-mind.html",
-    "title": "R-Mind",
-    "section": "",
-    "text": "A three day R course focusing on data analysis and visualization was organized and delivered by Isabel and Ramiro. The contents comprised topics such as data wrangling, reproducible analysis, and creating visualizations with ggplot2 and patchwork. The course also touched on differential gene expression analysis, providing a thorough overview of essential data analysis tools and techniques. This course was part of the international ESN-ISN Neurochemistry School 2023.\nOpen course materials are available at: https://www.pattern.institute/rmind-workshop/."
-  },
-  {
-    "objectID": "team/mmesquita/index.html",
-    "href": "team/mmesquita/index.html",
-    "title": "Maria Mesquita",
-    "section": "",
-    "text": "With a background as a compliance officer, I am glad to help my fellows with navigating regulatory frameworks, a skill crucial for the science promotion, development, and outreach mission of the Pattern Institute.\nI believe in science as a means to shed light on our society’s shared future."
-  },
-  {
-    "objectID": "team/iduarte/index.html",
-    "href": "team/iduarte/index.html",
-    "title": "Isabel Duarte",
-    "section": "",
-    "text": "I am a full time scientist, and curiosity is my main driver. I am passionate about Open Science and I am always keen on establishing new collaborations."
-  },
-  {
-    "objectID": "team/iduarte/index.html#science",
-    "href": "team/iduarte/index.html#science",
-    "title": "Isabel Duarte",
-    "section": "Science",
-    "text": "Science\nI use Computational Biology/Bioinformatics as a way of answering biologically relevant questions. I have used OMICs datasets to study the genetic regulation of cancer, early vertebrate embryo development, stem cell differentiation, and mitochondrial evolution.\nValues | I value transparency, diplomacy, and openness. I am a strong believer in mutual respect and understanding. I advocate and apply reproducible and open research practices."
-  },
-  {
-    "objectID": "team/iduarte/index.html#hobbies",
-    "href": "team/iduarte/index.html#hobbies",
-    "title": "Isabel Duarte",
-    "section": "Hobbies",
-    "text": "Hobbies\nI love to read, to play ukulele, to think, to learn and to teach, to discuss new ideas, and to engage in outdoors activities with my friends.\nI regularly organize get-together evenings of relaxed scientific discussions or board game nights, over tea and homemade cake.\nOthers describe me as creative, curious, upbeat and reliable. I see myself as transparent."
+    "text": "We are a yet small, but growing, assembly of scientists, engineers, and community organizers committed to advancing research in complex systems science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAna Cristina Maia Fernandes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrancisco Magno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsabel Duarte\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeonardo Silva\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Mesquita\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaulo Martel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRamiro Magno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRui Peres dos Santos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomás Pais de Azevedo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team/pmartel/index.html",
@@ -126,46 +77,221 @@
     "text": "I’m a passionate researcher captivated by the mysteries of the natural world.\nMy expertise encompasses diverse research projects in agriculture and regenerative medicine. I believe that our small individual contributions wield immense influence, shaping the continuous evolution of our world’s complex systems. That’s why my brain is constantly storming with thoughts about discovering sustainable and innovative solutions to enhance our lives.\nIn my downtime, I find joy in sports like tennis, padel, and running. These activities not only bring me happiness but also recharge my creative energy, fueling my passion for making a positive impact."
   },
   {
-    "objectID": "about/org.html",
-    "href": "about/org.html",
-    "title": "Organization",
+    "objectID": "grants/2023.09536.CPCA.A1/2023.09536.CPCA.A1.html",
+    "href": "grants/2023.09536.CPCA.A1/2023.09536.CPCA.A1.html",
+    "title": "CaCau (Phase 1)",
     "section": "",
-    "text": "Board of directors\n\nRamiro Magno\nIsabel Duarte\nMaria Mesquita\n\n\n\nFiscal Council\n\nFrancisco Magno\nCarlos Ribeiro\nJoão Ramos\n\n\n\nBoard of the General Assembly\n\nTomás Pais de Azevedo\nAna Cristina Fernandes\nPaulo Martel"
+    "text": "CaCau (Cancer Causality | Phase 1) is a computational research project dedicated to the exploration of causal mechanisms underlying cancer development. The project leverages advanced computing resources to conduct preparatory analyses and develop computational workflows aimed at uncovering biological pathways and molecular interactions implicated in cancer causality.\nFunded by the Fundação para a Ciência e a Tecnologia (FCT) under the Call for Advanced Computing Projects (3rd edition): A1 Preparatory or Development Access (Round D), CaCau is led by Isabel Duarte, a researcher at the University of Algarve (UAlg) and a member of the Pattern Institute."
   },
   {
-    "objectID": "about/contact.html",
-    "href": "about/contact.html",
-    "title": "We’d love to hear from you",
+    "objectID": "grants/2023.10973.CPCA.A2/2023.10973.CPCA.A2.html",
+    "href": "grants/2023.10973.CPCA.A2/2023.10973.CPCA.A2.html",
+    "title": "CaCau (Phase 2)",
     "section": "",
-    "text": "We invite you to learn more about our collaborative efforts and would be happy to share with you the projects we are working on; we value your initiative and are open to explore the field of complex systems science together.\n     email@pattern.institute."
+    "text": "CaCau (Cancer Causality for Precision Oncology | Phase 2) is the continuation of the CaCau initiative, advancing the computational exploration of causal mechanisms in cancer with the goal of contributing to precision oncology strategies. Building upon the preparatory work established in Phase 1, this phase focuses on the large-scale analysis of molecular data, employing advanced computing resources to develop integrative models that can inform personalized cancer treatment approaches.\nFunded by the Fundação para a Ciência e a Tecnologia (FCT) under the Call for Advanced Computing Projects (4th edition): A2 Regular Access, the project is led by Isabel Duarte, researcher at the University of Algarve (UAlg) and member of the Pattern Institute."
   },
   {
-    "objectID": "about/by-laws.html",
-    "href": "about/by-laws.html",
-    "title": "Pattern Institute By-Laws",
+    "objectID": "grants/2024.07901.CPCA.A2/2024.07901.CPCA.A2.html",
+    "href": "grants/2024.07901.CPCA.A2/2024.07901.CPCA.A2.html",
+    "title": "CaCau (Model Testing)",
     "section": "",
-    "text": "The current by-laws of the Pattern Institute approved in 2 February 2023.\nUnable to display PDF file. Download instead."
+    "text": "CaCau (Cancer Causality for Precision Oncology | Model Testing) represents the next step in the CaCau project series, focused on validating and testing computational models developed to elucidate causal mechanisms in cancer. This phase specifically aims to evaluate model performance and robustness using large-scale molecular datasets, further supporting precision oncology applications.\nThe project is funded under the Call for Advanced Computing Projects (5th edition): A2 Regular Access | Fast-track by the Fundação para a Ciência e a Tecnologia (FCT). It is led by Isabel Duarte, researcher at the University of Algarve and member of the Pattern Institute."
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
+    "objectID": "training/training.html",
+    "href": "training/training.html",
+    "title": "Training",
+    "section": "",
+    "text": "We run hands-on training sessions that help you get comfortable working with data—especially using R. Whether you’re just getting started or diving into something more advanced like transcriptomics, our workshops are designed to be practical, approachable, and useful for real research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR-Mind\n\n\npattern.institute/rmind-workshop\n\n\n\nIsabel Duarte\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublication-Ready Graphs using R\n\n\nPattern Institute / ENCODS 2023\n\n\n\nIsabel Duarte, Ramiro Magno\n\n\nMay 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR for Absolute Beginners\n\n\nR4AB / Hands on tutorial\n\n\n\nIsabel Duarte, Ramiro Magno\n\n\nMay 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTidy Data & Visualisation with R\n\n\nPattern Institute / TDVR2022\n\n\n\nRamiro Magno, Isabel Duarte, Bruno Louro and João Brazão\n\n\nOct 26, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "training/tdvr-2022/tdvr-2022.html",
+    "href": "training/tdvr-2022/tdvr-2022.html",
+    "title": "Tidy Data & Visualisation with R",
+    "section": "",
+    "text": "In this practical workshop, Tidy Data & Visualisation with R, we explore how to turn messy data into clean, structured formats ready for analysis and visualization—no prior experience with R required. Using the Tidyverse as our toolkit, we guide you through core concepts of data wrangling and help you create clear, compelling graphics with ggplot2. The workshop includes hands-on exercises and real research examples, and participants also had the option to bring their own data for personalized feedback on the final day. Whether you’re just starting out or want to sharpen your R skills, this workshop is a great place to build confidence with data."
+  },
+  {
+    "objectID": "training/rmind-2023/rmind-2023.html",
+    "href": "training/rmind-2023/rmind-2023.html",
+    "title": "R-Mind",
+    "section": "",
+    "text": "The R-Mind Workshop is a three-day, hands-on introduction to data analysis and visualization with R, designed to help you build confidence working with real-world data. On Day 1, we cover the basics—loading data, running descriptive stats, creating visualizations, and performing simple statistical tests like correlations and t-tests. On Day 3, we take a deeper dive into transcriptomics, guiding you through differential expression analysis using edgeR and DESeq2, with a focus on good practices and clear interpretation. Whether you’re new to R or want to sharpen your skills for research, this workshop offers a practical and supportive starting point."
+  },
+  {
+    "objectID": "contribute/contribute.html",
+    "href": "contribute/contribute.html",
+    "title": "Getting involved",
+    "section": "",
+    "text": "This section highlights computational projects that are in early development or could benefit from additional input to reach their full potential. Whether you’re a student, researcher, or developer interested in contributing, we welcome collaborators to join us.\nThese projects offer opportunities to gain hands-on experience, share expertise, and co-author meaningful scientific tools.\nBy the way, we also welcome your own ideas.\nJust drop us an email at email@pattern.institute if you’re interested."
+  },
+  {
+    "objectID": "contribute/contribute.html#ensemblr",
+    "href": "contribute/contribute.html#ensemblr",
+    "title": "Getting involved",
+    "section": "1 ensemblr",
+    "text": "1 ensemblr\n  \n{ensemblr} is an R client to the Ensembl REST API.\n\n\n\n\n\nensemblr package: an R client to the Ensembl REST API.\n\n\nThe package currently covers only a subset of available endpoints. We are in the process of migrating its internals from the now-superseded httr package to the newer httr2. Ramiro Magno and Dany Mukesha are working on this, but the project would benefit from an extra pair of hands—especially if you’re interested in building API wrappers.\nBrowse the source code at https://github.com/patterninstitute/ensemblr."
+  },
+  {
+    "objectID": "contribute/contribute.html#fluents",
+    "href": "contribute/contribute.html#fluents",
+    "title": "Getting involved",
+    "section": "2 fluents",
+    "text": "2 fluents\n  \n{fluents} is an R package that re-implements grind.R, originally developed by Rob de Boer. grind.R itself is a port of de Boer’s earlier C-based program, GRIND (GReat INtegrator Differential equations), designed for solving systems of differential equations.\n\n\n\n\n\nThe name fluents is inspired by Newton’s fluent concept, referring to any variable that changes over time.\n\n\nThe project was initiated by Ramiro Magno and is currently looking for contributors to help bring it to a publishable first release, ideally on CRAN. If you have an interest in dynamical systems, biology, and R programming, this could be an exciting project to get involved in.\nBrowse the source at https://github.com/ramiromagno/fluents."
+  },
+  {
+    "objectID": "contribute/contribute.html#w4",
+    "href": "contribute/contribute.html#w4",
+    "title": "Getting involved",
+    "section": "3 W4",
+    "text": "3 W4\n  \n{w4} is an R package that aims to bring the W4 method into R. The W4 method is an alternative to the Newton-Raphson (NR) method for nonlinear root finding. It offers a wider convergence region (Newton basin), though it converges linearly rather than quadratically, as the NR method does.\nA proof of principle has been implemented, but the project would benefit from a more performant implementation, as well as improved testing and documentation. This may be a good fit for you if you enjoy numerical methods and programming in C or C++.\nBrowse the source at https://github.com/ramiromagno/w4."
+  },
+  {
+    "objectID": "contribute/contribute.html#sec-frac",
+    "href": "contribute/contribute.html#sec-frac",
+    "title": "Getting involved",
+    "section": "4 Fractional significant digits in R",
+    "text": "4 Fractional significant digits in R\n  \nWe are looking for collaborators to help implement the methodology proposed by Jørgen L. Nikolajsen in his article Fractional Significant Digits (SIAM J. Sci. Comput., 2014) as an R package.\nThe paper introduces two methods for quantifying the number of significant digits (specifically, fractional significant digits, or FSDs) in approximate numerical results. This offers a finer and more nuanced metric of accuracy than traditional relative or absolute error—especially relevant when comparing the performance of iterative root-finding or eigenvalue algorithms."
+  },
+  {
+    "objectID": "contribute/contribute.html#stopping-criteria-for-iterative-root-finding",
+    "href": "contribute/contribute.html#stopping-criteria-for-iterative-root-finding",
+    "title": "Getting involved",
+    "section": "5 Stopping criteria for iterative root finding",
+    "text": "5 Stopping criteria for iterative root finding\n  \nWe are seeking collaborators to develop an R package that implements the stopping criteria for iterative root-finding algorithms as proposed by Nikolajsen (2014). These criteria aim to enhance the efficiency of root-finding methods by terminating iterations immediately when no further improvement is possible, reducing computational workload without compromising accuracy.​\nThis project can be a follow-up on Project 4."
+  },
+  {
+    "objectID": "contribute/contribute.html#glfw-bindings-for-r",
+    "href": "contribute/contribute.html#glfw-bindings-for-r",
+    "title": "Getting involved",
+    "section": "6 GLFW bindings for R",
+    "text": "6 GLFW bindings for R\n  \nWe welcome collaborators to contribute to {glfw}, an experimental R package that provides bindings to the GLFW library—a lightweight framework for creating windows, contexts, and managing input in OpenGL-based applications.\n\n\n\nThis project enables R users to interact directly with the GLFW API, opening the door to interactive visualizations, real-time simulations, and even basic game development within the R ecosystem. While R is not typically used for graphics programming at this level, {glfw} explores what’s possible when low-level control meets high-level language flexibility.\nIf any of the following spark your interest, we’d love to collaborate:\n\nYou enjoy programming in C or tinkering with low-level code\nYou have experience (or want to gain some!) with OpenGL or graphics pipelines\nYou’re excited by the idea of making R more interactive and dynamic\nYou’re curious about systems programming, real-time rendering, or just trying something new\n\nIf you’re excited about expanding R’s capabilities into graphics and input systems—or just want to experiment with building high—performance graphical tools—explore the source at https://github.com/ramiromagno/glfw."
+  },
+  {
+    "objectID": "contribute/contribute.html#plink2",
+    "href": "contribute/contribute.html#plink2",
+    "title": "Getting involved",
+    "section": "7 plink2",
+    "text": "7 plink2\n  \n{plink2} is an R package under development that aims to provide a high-level interface to PLINK 2, a widely used toolset for genome-wide association studies (GWAS) and population genetics.\nThe goal of this project is to make PLINK 2 workflows more accessible and reproducible within R, allowing users to script, document, and share their analyses using familiar R syntax—while still benefiting from PLINK 2’s speed and efficiency.\nWhat we’re building:\n\nA lightweight R interface to PLINK 2 commands using system calls\nHelpers to manage input/output paths and file formats\nFunctions that wrap common PLINK 2 workflows (e.g., filtering, association testing, PCA)\nStructured outputs returned as tibbles or data frames for seamless integration with tidyverse tools\n\nWho this might interest:\n\nR users working with large-scale genomic data\nResearchers looking to automate and document PLINK 2 pipelines\nContributors interested in building reproducible infrastructure for genetic analysis\n\nThe project is in an early stage, and we’re actively shaping its scope. If you’re familiar with PLINK or interested in bridging the gap between command-line tools and R, we’d love to hear from you.\nExplore the repo at https://github.com/patterninstitute/plink2/."
+  },
+  {
+    "objectID": "contribute/contribute.html#gwas-ssf-importer-for-r",
+    "href": "contribute/contribute.html#gwas-ssf-importer-for-r",
+    "title": "Getting involved",
+    "section": "8 GWAS-SSF importer for R",
+    "text": "8 GWAS-SSF importer for R\n  \nWe’re proposing a new project to create an R package that imports GWAS-SSF (Summary Statistics Format) files—an emerging standard for sharing genome-wide association study (GWAS) summary statistics.\nThe GWAS-SSF format aims to harmonize GWAS summary data across studies by defining a consistent, metadata-rich, tab-delimited format. This R package would help researchers read, validate, and analyze SSF-compliant datasets within R workflows.\nWhat we aim to build:\n\nA robust importer that reads .tsv files and associated metadata.yaml into structured R objects\nInput validation and schema checking (e.g., required columns, field types, ontology term checks)\nSupport for tidy parsing of optional fields (e.g., imputation quality, allele frequency, standard error)\nOptional integration with gwasrapidd or other tools for downstream querying and analysis\nUtilities to coerce or export data into other formats (e.g., PLINK, VCF, or custom table layouts)\n\nWho this might interest:\n\nResearchers working with publicly available GWAS summary statistics\nDevelopers building pipelines for polygenic risk scores or meta-analyses\nContributors interested in genomics data standards and R infrastructure"
+  },
+  {
+    "objectID": "contribute/contribute.html#rdes-importer-for-r",
+    "href": "contribute/contribute.html#rdes-importer-for-r",
+    "title": "Getting involved",
+    "section": "9 RDES importer for R",
+    "text": "9 RDES importer for R\n  \nWe are seeking collaborators to help build an R package that imports and parses datasets conforming to the RDES specification, part of the RDML ecosystem for qPCR data exchange and analysis.\nThe RDES format provides a structured and interoperable way to share qPCR data, metadata, and analysis results. While tools exist for working with RDML files in other environments (e.g., RDML-Ninja), there is currently no R-native support for RDES. This package would fill that gap by providing clean, standards-compliant access to RDES files for downstream analysis, reproducibility, and reporting.\nThis project is currently in the planning phase. If you’re interested in bridging the gap between open data standards and R-based analysis, join us in shaping the direction of this tool."
+  },
+  {
+    "objectID": "contribute/contribute.html#sec-geisha",
+    "href": "contribute/contribute.html#sec-geisha",
+    "title": "Getting involved",
+    "section": "10 geisha",
+    "text": "10 geisha\n  \n{geisha} is a dormant R package project aimed at providing programmatic access to the GEISHA database, a curated resource of gene expression patterns during avian embryonic development—particularly for Gallus gallus (chicken).\nThis project offers a unique opportunity to bridge developmental biology and data science, by enabling researchers and students to query, explore, and analyze gene expression data in a tidy, reproducible R workflow.\n\nWhy revive this?\n\nThe GEISHA database is a rich and underutilized resource for studying spatial and temporal gene expression\nWith growing interest in single-cell and developmental genomics, a modern interface to GEISHA data could enable comparative and integrative analyses\nThe project provides a meaningful entry point for students and early-career contributors interested in combining biology and computation\n\n\n\nProject goals\n\nRestore and modernize the original package structure\nImplement functions to access and parse GEISHA gene expression data (HTML or API, if available)\nTidy the data for use in visualization, clustering, or integration with other genomic datasets\nProvide educational examples for developmental biology students and data science learners\n\n\n\nWho this might interest\n\nStudents curious about developmental biology and gene expression\nR users interested in scientific data wrangling and web scraping\nContributors excited to revive and modernize a meaningful project with strong educational potential\n\nThe project is in a recovery phase—there’s scaffolding to build on, but it needs love, debugging, and design thinking to move forward. If you’re interested in bringing it back to life, we’d love to collaborate.\nExplore the repo at https://github.com/ramiromagno/geisha and reach out to get involved."
+  },
+  {
+    "objectID": "contribute/contribute.html#ggchick",
+    "href": "contribute/contribute.html#ggchick",
+    "title": "Getting involved",
+    "section": "11 ggchick",
+    "text": "11 ggchick\n  \n{ggchick} is a proposed R package for visualizing early Gallus gallus (chick) embryo anatomical structures using ggplot2 and simple features, inspired by the excellent ggseg package for brain atlas visualization.\nThe aim is to create a flexible and extensible system for plotting developmental atlases across Hamburger-Hamilton stages, allowing researchers and educators to map gene expression, annotations, or experimental data onto chick embryo diagrams.\n\nWhy this matters?\nChick embryos are a classic model in developmental biology, but visual tools for summarizing and communicating spatial gene expression are still lacking. {ggchick} would fill this gap by providing:\n\nStage-specific anatomical outlines as simple feature geometries (sf)\nPredefined ggplot-ready atlases for key Hamburger-Hamilton stages\nFunctions for mapping data (e.g. from {geisha}) onto anatomical regions\nColor palettes, region metadata, and plotting helpers for publications and teaching\n\n\n\nProject goals\n\nCreate or digitize embryo atlas outlines and region labels from open sources\nBuild R datasets with cleaned and stage-structured geometries\nDevelop ggplot2-based functions for customizable plotting\nExplore linking with {geisha} data to create stage-aware expression maps\n\n\n\nWho this might interest\n\nStudents and researchers in developmental biology or bioinformatics\nR users interested in spatial data, simple features, or scientific visualization\nContributors excited by educational tools and data-driven graphics\n\nThis project is in concept phase, with a vision to evolve alongside Project 10 {geisha}. If you’re passionate about data visualization, anatomical mapping, or building tools for the life sciences, we’d love to collaborate."
+  },
+  {
+    "objectID": "contribute/contribute.html#complyr",
+    "href": "contribute/contribute.html#complyr",
+    "title": "Getting involved",
+    "section": "12 complyr",
+    "text": "12 complyr\n  \n{complyr} is an R package in concept phase designed to bring structure, reusability, and transparency to compliance testing. It enables method developers and auditors to define gold-standard expectations and test code against them—using a consistent, testthat-powered grammar that integrates with R package development and CI workflows.\n\nGiven enough rules, all code conforms.\n\nMany domains—especially in regulated research, clinical pipelines, scientific reproducibility, or teaching—require that code and methods conform to specific standards. {complyr} formalizes that need by allowing compliance logic to live in its own well-documented layer:\n\nAuditor packages define the rules and reference implementations\nMethod packages declare compliance using roxygen tags (e.g., @comply auditor.test)\nCompliance tests are reproducible, versionable, and CI-compatible\n\nThis decouples method implementation from evaluation criteria, allowing third-party validation, shared compliance standards, and better communication of expectations.\nThe project is actively evolving and welcomes contributions, feedback, and use cases from anyone interested in reproducibility, scientific software, or robust API behavior.\nExplore the code at https://github.com/patterninstitute/complyr/ and join us in building better tools for trust and transparency in computation."
+  },
+  {
+    "objectID": "about/about.html",
+    "href": "about/about.html",
     "title": "Pattern Institute",
     "section": "",
-    "text": "The Pattern Institute is an independent, nonprofit association that promotes scientific research, training and outreach in complexity science. By studying collective behaviors that extend beyond the isolated examination of individual parts, we seek to comprehend the intricate nature of complexity found in all scientific domains — physical, biological, social, and technological."
+    "text": "Mission\nThe Pattern Institute is a nonprofit research organization dedicated to advancing scientific discovery, education, and outreach, with a particular emphasis on systems and complexity science. It applies mathematical and computational approaches to uncover patterns across the natural, formal, and social sciences.\n\n\n\n\n\nPattern Institute is an independent non-profit research institution located in Faro, Portugal.\n\n\n\n\nValues\nAt the Pattern Institute, we are guided by a set of values that reflect both our scientific rigor and our creative spirit. We embrace a grassroots approach, where inclusivity, participation, and shared ownership are central to how we work. Our structure favors adhocracy—flexible, decentralized, and responsive—enabling collaboration to flourish in dynamic environments.\nWe promote scientific skepticism, challenging assumptions and fostering critical inquiry as a path to innovation. Through fractional scholarship, we support flexible academic engagement, welcoming researchers who contribute alongside other life and professional commitments.\nOur commitment to open science ensures that knowledge is accessible, transparent, and collaborative. We celebrate polymathy by encouraging curiosity across disciplines, and value playfulness as a source of creativity, resilience, and intellectual joy.\n\n\nContact\nThe best way to reach us is by email: email@pattern.institute. Otherwise, feel free to contact any of the team members directly."
   },
   {
-    "objectID": "about/index.html#genesis",
-    "href": "about/index.html#genesis",
-    "title": "Pattern Institute",
-    "section": "Genesis",
-    "text": "Genesis\nIn May 2023, a group of scientists with a shared interest in complex systems across various scientific domains came together to establish a grassroots research center. Motivated by a desire for boundless cooperation and a creative outlet for their scientific passions, they envisioned a space where interdisciplinary collaboration could thrive. The center aims to became a venue for open dialogue and innovative thinking, attracting researchers keen on exploring the intricacies of complex systems beyond traditional academic boundaries. Through this initiative, the group laid the foundation for a cooperative and engaging environment conducive to advancing understanding and knowledge in the realm of complex systems."
+    "objectID": "partners/partners.html",
+    "href": "partners/partners.html",
+    "title": "Partners",
+    "section": "",
+    "text": "The Pattern Institute advances its mission through collaborations with a diverse network of partners spanning marine ecology, biomedical research, clinical trial reporting, bioinformatics, and neuroscience. We work alongside public universities, private research centers, international consortia, cooperatives, and industry leaders to tackle complex scientific and technological challenges. These partnerships strengthen our ability to connect fundamental research with real-world applications across health, the environment, and data science."
   },
   {
-    "objectID": "about/index.html#values",
-    "href": "about/index.html#values",
-    "title": "Pattern Institute",
-    "section": "Values",
-    "text": "Values\n\nGrassroots\nAs a research institution, we champion grassroots values to foster a culture of inclusivity, participation, and collaboration among our researchers, believing that innovation flourishes when individuals are empowered and have a sense of ownership in their research endeavors.\n\n\nAdhocracy\nOur research institution values adhocracy for its ability to foster innovation through flexible structures, fluid collaboration, decentralized decision-making, and a dynamic approach to emerging challenges, creating an ecosystem that thrives on collective intelligence and the relentless pursuit of excellence.\n\n\nSkepticism\nAt our institution, we promote scientific skepticism to challenge the norm, fueling a quest for truth and innovation by encouraging questioning and the courage to explore uncharted territories, thereby fostering progress and unlocking new potential in our collective journey of discovery.\n\n\nFractional scholarship\nFractional scholarship refers to a flexible academic arrangement that allows individuals to engage in scholarly research and contribute to academic discourse, potentially alongside other professional or life commitments, without being bound to the full-time structures and constraints of traditional academia. By establishing an institution focused on fractional scholarship, we aim to unlock the untapped potential of researchers, enabling them to pursue their research interests flexibly, which enhances scholarly knowledge by allowing for a balanced engagement with other personal or occupational commitments.\n\n\nOpen Science\nThe Pattern Institute values open science, embracing a culture of transparency, accessibility, and collaborative engagement in the pursuit of expanding and sharing knowledge.\n\n\nPolymathy\nOur research center values polymathy, which is reflected in our pursuit of research questions across all fields of science, fostering a broad-based approach to inquiry and discovery.\n\n\nPlayfulness\nWe value playfulness, fostering a lively and imaginative environment that encourages creative exploration and innovative thinking in research pursuits."
+    "objectID": "training/r4ab-2022/r4ab-2022.html",
+    "href": "training/r4ab-2022/r4ab-2022.html",
+    "title": "R for Absolute Beginners",
+    "section": "",
+    "text": "In this self-paced tutorial, R4AB | Hands-on Tutorial, we introduce you to the basics of R programming—perfect for absolute beginners. We’ll cover essential topics like navigating R and RStudio, understanding R’s syntax, and working with fundamental data structures such as vectors, matrices, data frames, lists, and factors. You’ll also get a brief introduction to control-flow structures like loops and conditionals, learn how to write simple functions, and explore some of R’s most commonly used built-in functions. The tutorial is divided into seven manageable sections, each with clear objectives and hands-on exercises to reinforce your learning. By the end, you’ll have a solid foundation to start your journey in data analysis with R."
+  },
+  {
+    "objectID": "training/encods-2023/encods-2023.html",
+    "href": "training/encods-2023/encods-2023.html",
+    "title": "Publication-Ready Graphs using R",
+    "section": "",
+    "text": "In this hands-on workshop, Publication-Ready Graphs using R, we walk you through the essentials of crafting beautiful, publication-quality visualizations—no prior R experience needed. Together, we explore the basics of data cleaning, learn how to build clear and effective plots using ggplot2, and see how to combine multiple plots with the patchwork package. We also share some practical tips on what makes a graph work (and what to avoid). You get plenty of practice along the way, and by the end, you’ll be ready to share your data stories with confidence."
+  },
+  {
+    "objectID": "software/software.html",
+    "href": "software/software.html",
+    "title": "Scientific Open Source Software",
+    "section": "",
+    "text": "The Pattern Institute maintains a curated listing of scientific open source software developed and supported by its research community. This collection includes R packages, data packages and reproducible compendia designed to advance computational biology, genomics, and data science. Each software entry is openly available, documented, and actively maintained to promote reproducibility, collaboration, and innovation in scientific research."
+  },
+  {
+    "objectID": "software/software.html#r-packages",
+    "href": "software/software.html#r-packages",
+    "title": "Scientific Open Source Software",
+    "section": "R Packages",
+    "text": "R Packages\nA collection of R packages maintained by PI’s community.\n\n\n\n\n\n\n\n\n\n\nquincunx\n\n\n\n\n\n\nR\n\n\nHuman Genetics\n\n\nPolygenic Risk Score\n\n\nPGS Catalog\n\n\n\nProgrammatic access to the PGS Catalog. This package provides easy access to ‘PGS’ Catalog data by accessing the REST API. \n\n\n\n\n\nMar 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nsdtm.oak\n\n\n\n\n\n\nR\n\n\nCDISC\n\n\nSDTM\n\n\nclinical data\n\n\n\nAn EDC and Data Standard agnostic SDTM data transformation engine that automates the transformation of raw clinical data in ODM format to SDTM based on standard mapping algorithms. \n\n\n\n\n\nJan 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nensemblr\n\n\n\n\n\n\nR\n\n\nGenetics\n\n\nEnsembl\n\n\n\nR client for the Ensembl REST API. \n\n\n\n\n\nSep 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\ngrantham\n\n\n\n\n\n\nR\n\n\nGrantham distance\n\n\nmissense mutations\n\n\nevolution\n\n\n\nThe goal of grantham is to provide a minimal set of routines to calculate the Grantham distance (Grantham (1974)). \n\n\n\n\n\nJul 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nmgi.report.reader\n\n\n\n\n\n\nR\n\n\nGenetics\n\n\nMouse\n\n\nMouse Genome Informatics (MGI)\n\n\nGene Nomenclature\n\n\n\nProvides readers for easy and consistent importing of Mouse Genome Informatics (MGI) report files. \n\n\n\n\n\nJul 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\ngwasrapidd\n\n\n\n\n\n\nR\n\n\nHuman Genetics\n\n\nGenome-wide Association Study\n\n\nGWAS Catalog\n\n\n\nR package to query, download and wrangle GWAS Catalog data; provides easy access to the NHGRI-EBI GWAS Catalog data by accessing the REST API. \n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nhgnc\n\n\n\n\n\n\nR\n\n\nHGNC\n\n\nHuman Genetics\n\n\n\nEasily download and import the latest HGNC complete gene data set into R. \n\n\n\n\n\nOct 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nfluents\n\n\n\n\n\n\nR\n\n\nODE\n\n\ndynamical system\n\n\ngrind\n\n\n\nPhase plane analysis of low-dimensional ordinary differential equation models. \n\n\n\n\n\nMar 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nglfw\n\n\n\n\n\n\nR\n\n\nC\n\n\nGLFW\n\n\nOpenGL\n\n\n\nR Interface to the GLFW C Library. \n\n\n\n\n\nMar 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nagvgd\n\n\n\n\n\n\nR\n\n\nAGVGD\n\n\nmissense substitutions\n\n\n\nProvides an R implementation of the Align-GVGD (A-GVGD) method. \n\n\n\n\n\nSep 10, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/software.html#data-packages",
+    "href": "software/software.html#data-packages",
+    "title": "Scientific Open Source Software",
+    "section": "Data Packages",
+    "text": "Data Packages\nA collection of data packages that help with ecological modelling.\n\n\n\n\n\n\n\n\n\n\nCAOP.RAA.2024\n\n\n\n\n\n\nR\n\n\ndata\n\n\nAzores\n\n\nDireção-Geral do Território\n\n\nCAOP\n\n\nRegião Autónoma dos Açores\n\n\nsf\n\n\nspatial analysis\n\n\n\nProvides the 2024 official administrative boundaries of the Azores (Região Autónoma dos Açores (RAA)) by Direção-Geral do Território (DGT). \n\n\n\n\n\nMar 13, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nazores.seamounts\n\n\n\n\n\n\nR\n\n\ndata\n\n\nAzores\n\n\nseamount\n\n\natlantic ocean\n\n\n\nProvides easy access in R to seamount details provided in Table A1 in Morato et al. (2008). \n\n\n\n\n\nMar 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nazores.bathymetry\n\n\n\n\n\n\nR\n\n\ndata\n\n\nAzores\n\n\nbathymetry\n\n\natlantic ocean\n\n\n\nEasily generate SpatRaster objects for bathymetry, depth, elevation and slope at sea in the Azores. \n\n\n\n\n\nMar 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\neunis.habitats\n\n\n\n\n\n\nR\n\n\ndata\n\n\nEUNIS\n\n\nhabitat\n\n\n\nR data package that provides the EUNIS habitat classification in tidy format. \n\n\n\n\n\nJul 11, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/software.html#compendium-packages",
+    "href": "software/software.html#compendium-packages",
+    "title": "Scientific Open Source Software",
+    "section": "Compendium Packages",
+    "text": "Compendium Packages\nR packages supporting reproducibility for publications.\n\n\n\n\n\n\n\n\n\n\nazores.fkw\n\n\n\n\n\n\nR\n\n\ncompendium\n\n\nAzores\n\n\nfalse-killer whales\n\n\n\nR compendium for Peres dos Santos et al. (2025). \n\n\n\n\n\nJul 11, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/software.html#pcr-data-packages",
+    "href": "software/software.html#pcr-data-packages",
+    "title": "Scientific Open Source Software",
+    "section": "PCR Data Packages",
+    "text": "PCR Data Packages\nA collection of data packages to support the development and assessment of qPCR model fitting.\n\n\n\n\n\n\n\n\n\n\nlievens\n\n\n\n\n\n\nR\n\n\ndata\n\n\nReal-Time qPCR\n\n\nLievens\n\n\n\nReal-Time PCR Data Sets by Lievens et al. (2012). \n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\nvermeulen\n\n\n\n\n\n\nR\n\n\ndata\n\n\nReal-Time qPCR\n\n\nVermeulen\n\n\n\nReal-Time PCR Data Sets by Vermeulen et al. (2009). \n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\nkarlen\n\n\n\n\n\n\nR\n\n\ndata\n\n\nReal-Time qPCR\n\n\nKarlen\n\n\n\nReal-Time PCR Data Sets by Karlen et al. (2007). \n\n\n\n\n\nApr 30, 2024\n\n\n\n\n\n\n\n\n\n\n\nsisti\n\n\n\n\n\n\nR\n\n\ndata\n\n\nReal-Time qPCR\n\n\nSisti\n\n\n\nReal-Time PCR Data Sets by Sisti et al. (2010). \n\n\n\n\n\nApr 28, 2024\n\n\n\n\n\n\n\n\n\n\n\nboggy\n\n\n\n\n\n\nR\n\n\ndata\n\n\nReal-Time qPCR\n\n\nBoggy\n\n\n\nReal-Time PCR Data Sets by Boggy et al. (2010). \n\n\n\n\n\nApr 25, 2024\n\n\n\n\n\n\n\n\n\n\n\nbatsch\n\n\n\n\n\n\nR\n\n\ndata\n\n\nReal-Time qPCR\n\n\nBatsch\n\n\n\nReal-Time PCR Data Sets by Batsch et al. (2008). \n\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\nruijter\n\n\n\n\n\n\nR\n\n\ndata\n\n\nReal-Time qPCR\n\n\nRuijter\n\n\n\nReal-Time PCR Data Sets by Ruijter et al. (2013). \n\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\nrutledge\n\n\n\n\n\n\nR\n\n\ndata\n\n\nReal-Time qPCR\n\n\nRutledge\n\n\n\nReal-Time PCR Data Sets by Rutledge et al. (2004). \n\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\nguescini\n\n\n\n\n\n\nR\n\n\ndata\n\n\nReal-Time qPCR\n\n\nGuescini\n\n\n\nReal-Time PCR Data Sets by Guescini et al. (2008). \n\n\n\n\n\nApr 21, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "grants/2022.46814.CPCA.A0/2022.46814.CPCA.A0.html",
+    "href": "grants/2022.46814.CPCA.A0/2022.46814.CPCA.A0.html",
+    "title": "MitoProfiles",
+    "section": "",
+    "text": "MitoProfiles is a research project focused on the characterization of the gene expression landscape in cancers originating from organs with inherently high metabolic rates. Funded by the Fundação para a Ciência e a Tecnologia (FCT) under the Call Advanced Computing Projects (3rd ed.) - A0 Experimental Access (round C) program, the project is led by Isabel Duarte, a researcher at the University of Algarve and a member of the Pattern Institute.\nThe project aims to systematically analyze mitochondrial gene expression patterns across various cancer types, particularly those arising in metabolically active organs. By leveraging publicly available transcriptomic datasets and applying bioinformatics methodologies, MitoProfiles seeks to uncover distinct mitochondrial profiles that could offer new insights into cancer metabolism and potential therapeutic targets."
+  },
+  {
+    "objectID": "grants/2023.11128.PEX/2023.11128.PEX.html",
+    "href": "grants/2023.11128.PEX/2023.11128.PEX.html",
+    "title": "EMPHASIZE",
+    "section": "",
+    "text": "EMPHASIZE is the acronym for the research project titled “Exploring the Muscle Factors Predictive of Hepatic Function”, funded under the 2023 Exploratory Project Call for All Scientific Domains by the Fundação para a Ciência e a Tecnologia (FCT). The project is led by Ana Luísa de Sousa Coelho at the University of Algarve (UAlg).\nThis project aims to identify key muscle-related biomarkers and to develop computational models that can predict hepatic function outcomes, particularly in the context of bariatric surgery. By integrating biomolecular data with advanced computational approaches, the project seeks to improve patient stratification and personalized treatment strategies.\nThe Pattern Institute (PI), represented by Ramiro Magno, is a key partner in the project, contributing specialized expertise in computational modeling and data integration. Additional collaboration is provided by the Centro Hospitalar Universitário do Algarve, EPE (ULSAlgarve), ensuring access to clinical data and patient cohorts necessary for translational validation."
+  },
+  {
+    "objectID": "grants/grants.html",
+    "href": "grants/grants.html",
+    "title": "Research Grants",
+    "section": "",
+    "text": "The following is a selection of research grants in which the Pattern Institute is either the lead recipient or an active collaborator. These projects reflect the Institute’s commitment to advancing scientific knowledge through interdisciplinary research, with contributions spanning computational modeling, data science, and precision medicine.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEMPHASIZE\n\n\n\n\n\n\n2023.11128.PEX\n\n\nFeb 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaCau (Model Testing)\n\n\n\n\n\n\n2024.07901.CPCA.A2\n\n\nJan 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaCau (Phase 2)\n\n\n\n\n\n\n2023.10973.CPCA.A2\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaCau (Phase 1)\n\n\n\n\n\n\n2023.09536.CPCA.A1\n\n\nJun 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMitoProfiles\n\n\n\n\n\n\n2022.46814.CPCA.A0\n\n\nJun 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team/rpsantos/index.html",
@@ -231,52 +357,38 @@
     "text": "As a software engineer by profession, I recognize the increasing reliance of scientific research on computational technologies. I take satisfaction in contributing my expertise to support my team members whenever possible."
   },
   {
-    "objectID": "team/rmagno/index.html",
-    "href": "team/rmagno/index.html",
-    "title": "Ramiro Magno",
+    "objectID": "team/iduarte/index.html",
+    "href": "team/iduarte/index.html",
+    "title": "Isabel Duarte",
     "section": "",
-    "text": "I am a Biologist turned Research Software Engineer. I’m equally passionate about Biology, Mathematics and Computer Science."
+    "text": "I am a full time scientist, and curiosity is my main driver. I am passionate about Open Science and I am always keen on establishing new collaborations."
   },
   {
-    "objectID": "team/rmagno/index.html#research",
-    "href": "team/rmagno/index.html#research",
-    "title": "Ramiro Magno",
-    "section": "Research",
-    "text": "Research\nCurrently, I am involved in several science projects, including genomics, developmental biology, marine ecology, as well as volunteering for the improvement of clinical data reporting through data FAIRification.\nI believe in open and reproducible science for creating a more informed and educated society, capable of making evidence-based decisions."
+    "objectID": "team/iduarte/index.html#science",
+    "href": "team/iduarte/index.html#science",
+    "title": "Isabel Duarte",
+    "section": "Science",
+    "text": "Science\nI use Computational Biology/Bioinformatics as a way of answering biologically relevant questions. I have used OMICs datasets to study the genetic regulation of cancer, early vertebrate embryo development, stem cell differentiation, and mitochondrial evolution.\nValues | I value transparency, diplomacy, and openness. I am a strong believer in mutual respect and understanding. I advocate and apply reproducible and open research practices."
   },
   {
-    "objectID": "team/index.html",
-    "href": "team/index.html",
-    "title": "Team",
-    "section": "",
-    "text": "Our entirely remote team consists of driven volunteers bonded by a shared enthusiasm for promoting openness and reproducibility in research. We are a yet small, but growing, assembly of scientists, engineers, and community organizers committed to advancing research in complex systems science while cultivating a lively community.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAna Cristina Maia Fernandes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrancisco Magno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsabel Duarte\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeonardo Silva\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Mesquita\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaulo Martel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRamiro Magno\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRui Peres dos Santos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTomás Pais de Azevedo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "team/iduarte/index.html#hobbies",
+    "href": "team/iduarte/index.html#hobbies",
+    "title": "Isabel Duarte",
+    "section": "Hobbies",
+    "text": "Hobbies\nI love to read, to play ukulele, to think, to learn and to teach, to discuss new ideas, and to engage in outdoors activities with my friends.\nI regularly organize get-together evenings of relaxed scientific discussions or board game nights, over tea and homemade cake.\nOthers describe me as creative, curious, upbeat and reliable. I see myself as transparent."
   },
   {
-    "objectID": "blog/posts/2023-10-14-quarto_wiley.html",
-    "href": "blog/posts/2023-10-14-quarto_wiley.html",
-    "title": "New Quarto Extension",
+    "objectID": "team/mmesquita/index.html",
+    "href": "team/mmesquita/index.html",
+    "title": "Maria Mesquita",
     "section": "",
-    "text": "Ramiro has developed his first Quarto extension! This is a Quarto extension that will help you create documents for journals published by Wiley. For more about producing LaTeX output for Wiley journals, see https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/new-journal-design.html.\nThe Quarto extension is available at: https://github.com/ramiromagno/wiley-njd/."
+    "text": "With a background as a compliance officer, I am glad to help my fellows with navigating regulatory frameworks, a skill crucial for the science promotion, development, and outreach mission of the Pattern Institute.\nI believe in science as a means to shed light on our society’s shared future."
   },
   {
-    "objectID": "blog/posts/encods-2023.html",
-    "href": "blog/posts/encods-2023.html",
-    "title": "Publication-ready graphs using R",
+    "objectID": "legal/trademark.html",
+    "href": "legal/trademark.html",
+    "title": "Trademark",
     "section": "",
-    "text": "Today two of our researchers, Isabel and Ramiro, organised and assisted the workshop on Publication-ready graphs using R as part of workshop session 1 on second day of ENCODS 2023."
-  },
-  {
-    "objectID": "blog/posts/2023-07-05-ciencia2023.html",
-    "href": "blog/posts/2023-07-05-ciencia2023.html",
-    "title": "Pattern Institute at Ciência 2023",
-    "section": "",
-    "text": "The scientific meeting Ciência 2023 aims to discuss and showcase the current state of the Portuguese scientific landscape to an engaged audience of scientists. This year’s edition centered around the theme “Science and Ocean Beyond the Horizon” and it took place, for the first time, outside of Lisbon.\n\n\n\n\n\nRamiro Magno at Ciência 2023 at the University of Aveiro, Portugal.\n\n\nRamiro Magno attended the meeting to gain insights into the scientific panorama in Portugal, and to listen to speeches by Elvira Fortunato, the Minister of Science, Technology, and Higher Education; and Portuguese Prime Minister António Costa. Both speakers expressed profound appreciation for the scientific community and pledged to foster scientific research in Portugal. They emphasized its pivotal role in pushing the boundaries of knowledge, contributing to transformative discoveries that shape our society, and providing valuable insights for political decision-making and strengthening democratic institutions.\nAs the Pattern Institute looks to the future, its participation in such scientific gatherings will play a crucial role in fulfilling its mission. Beyond networking opportunities, these events provide a platform to disseminate the scientific works developed under the institute’s umbrella, thereby advancing its objectives."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "News",
-    "section": "",
-    "text": "Alice in Researchland\n\n\n\n\n\n\nIsabel Duarte\n\n\nApr 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nPublication-ready graphs using R\n\n\n\n\n\n\nIsabel Duarte\n\n\nMay 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nPattern Institute’s first paper\n\n\n\n\n\n\nIsabel Duarte\n\n\nJun 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nPattern Institute at Ciência 2023\n\n\n\n\n\n\nIsabel Duarte\n\n\nJul 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCooperation Agreement with the University of Algarve\n\n\n\n\n\n\nIsabel Duarte\n\n\nJul 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNew Quarto Extension\n\n\n\n\n\n\nRamiro Magno\n\n\nOct 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nR-Mind\n\n\n\n\n\n\nRamiro Magno\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The Pattern Institute name and logotype are protected trademarks, registered with the Instituto Nacional da Propriedade Industrial (INPI) in Portugal.\nTrademark holder: Pattern Institute\nRegistration authority: Instituto Nacional da Propriedade Industrial (INPI), Portugal\nRegistration number: 55203\nDate of registration: 4 May 2023\nAll rights associated with the trademark are reserved. Use of the Pattern Institute name or logo without prior written permission is strictly prohibited and may constitute a violation of intellectual property law under Portuguese jurisdiction."
   }
 ]
