@@ -3,6 +3,7 @@
     "listing": "/team/team.html",
     "items": [
       "/team/afernandes/index.html",
+      "/team/dpalecek/index.html",
       "/team/fmagno/index.html",
       "/team/iduarte/index.html",
       "/team/lmesilva/index.html",
@@ -14,26 +15,28 @@
     ]
   },
   {
-    "listing": "/training/training.html",
-    "items": [
-      "/training/rmind-2023/rmind-2023.html",
-      "/training/encods-2023/encods-2023.html",
-      "/training/r4ab-2022/r4ab-2022.html",
-      "/training/tdvr-2022/tdvr-2022.html"
-    ]
-  },
-  {
-    "listing": "/software/software.html",
-    "items": []
-  },
-  {
-    "listing": "/grants/grants.html",
+    "listing": "/grants/index.html",
     "items": [
       "/grants/2023.11128.PEX/2023.11128.PEX.html",
       "/grants/2024.07901.CPCA.A2/2024.07901.CPCA.A2.html",
       "/grants/2023.10973.CPCA.A2/2023.10973.CPCA.A2.html",
       "/grants/2023.09536.CPCA.A1/2023.09536.CPCA.A1.html",
       "/grants/2022.46814.CPCA.A0/2022.46814.CPCA.A0.html"
+    ]
+  },
+  {
+    "listing": "/software/index.html",
+    "items": []
+  },
+  {
+    "listing": "/training/index.html",
+    "items": [
+      "/training/py4life/py4life.html",
+      "/training/python-club/python-club.html",
+      "/training/rmind-2023/rmind-2023.html",
+      "/training/encods-2023/encods-2023.html",
+      "/training/r4ab-2022/r4ab-2022.html",
+      "/training/tdvr-2022/tdvr-2022.html"
     ]
   }
 ]
