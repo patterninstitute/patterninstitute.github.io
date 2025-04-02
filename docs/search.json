@@ -119,95 +119,102 @@
     "text": "The R-Mind Workshop is a three-day, hands-on introduction to data analysis and visualization with R, designed to help you build confidence working with real-world data. On Day 1, we cover the basics—loading data, running descriptive stats, creating visualizations, and performing simple statistical tests like correlations and t-tests. On Day 3, we take a deeper dive into transcriptomics, guiding you through differential expression analysis using edgeR and DESeq2, with a focus on good practices and clear interpretation. Whether you’re new to R or want to sharpen your skills for research, this workshop offers a practical and supportive starting point."
   },
   {
-    "objectID": "contribute/contribute.html",
-    "href": "contribute/contribute.html",
+    "objectID": "contribute/index.html",
+    "href": "contribute/index.html",
     "title": "Getting involved",
     "section": "",
     "text": "This section highlights computational projects that are in early development or could benefit from additional input to reach their full potential. Whether you’re a student, researcher, or developer interested in contributing, we welcome collaborators to join us.\nThese projects offer opportunities to gain hands-on experience, share expertise, and co-author meaningful scientific tools.\nBy the way, we also welcome your own ideas.\nJust drop us an email at email@pattern.institute if you’re interested."
   },
   {
-    "objectID": "contribute/contribute.html#ensemblr",
-    "href": "contribute/contribute.html#ensemblr",
+    "objectID": "contribute/index.html#ensemblr",
+    "href": "contribute/index.html#ensemblr",
     "title": "Getting involved",
     "section": "1 ensemblr",
     "text": "1 ensemblr\n  \n{ensemblr} is an R client to the Ensembl REST API.\n\n\n\n\n\nensemblr package: an R client to the Ensembl REST API.\n\n\nThe package currently covers only a subset of available endpoints. We are in the process of migrating its internals from the now-superseded httr package to the newer httr2. Ramiro Magno and Dany Mukesha are working on this, but the project would benefit from an extra pair of hands—especially if you’re interested in building API wrappers.\nBrowse the source code at https://github.com/patterninstitute/ensemblr."
   },
   {
-    "objectID": "contribute/contribute.html#fluents",
-    "href": "contribute/contribute.html#fluents",
+    "objectID": "contribute/index.html#fluents",
+    "href": "contribute/index.html#fluents",
     "title": "Getting involved",
     "section": "2 fluents",
     "text": "2 fluents\n  \n{fluents} is an R package that re-implements grind.R, originally developed by Rob de Boer. grind.R itself is a port of de Boer’s earlier C-based program, GRIND (GReat INtegrator Differential equations), designed for solving systems of differential equations.\n\n\n\n\n\nThe name fluents is inspired by Newton’s fluent concept, referring to any variable that changes over time.\n\n\nThe project was initiated by Ramiro Magno and is currently looking for contributors to help bring it to a publishable first release, ideally on CRAN. If you have an interest in dynamical systems, biology, and R programming, this could be an exciting project to get involved in.\nBrowse the source at https://github.com/ramiromagno/fluents."
   },
   {
-    "objectID": "contribute/contribute.html#w4",
-    "href": "contribute/contribute.html#w4",
+    "objectID": "contribute/index.html#w4",
+    "href": "contribute/index.html#w4",
     "title": "Getting involved",
     "section": "3 W4",
     "text": "3 W4\n  \n{w4} is an R package that aims to bring the W4 method into R. The W4 method is an alternative to the Newton-Raphson (NR) method for nonlinear root finding. It offers a wider convergence region (Newton basin), though it converges linearly rather than quadratically, as the NR method does.\nA proof of principle has been implemented, but the project would benefit from a more performant implementation, as well as improved testing and documentation. This may be a good fit for you if you enjoy numerical methods and programming in C or C++.\nBrowse the source at https://github.com/ramiromagno/w4."
   },
   {
-    "objectID": "contribute/contribute.html#sec-frac",
-    "href": "contribute/contribute.html#sec-frac",
+    "objectID": "contribute/index.html#sec-frac",
+    "href": "contribute/index.html#sec-frac",
     "title": "Getting involved",
     "section": "4 Fractional significant digits in R",
     "text": "4 Fractional significant digits in R\n  \nWe are looking for collaborators to help implement the methodology proposed by Jørgen L. Nikolajsen in his article Fractional Significant Digits (SIAM J. Sci. Comput., 2014) as an R package.\nThe paper introduces two methods for quantifying the number of significant digits (specifically, fractional significant digits, or FSDs) in approximate numerical results. This offers a finer and more nuanced metric of accuracy than traditional relative or absolute error—especially relevant when comparing the performance of iterative root-finding or eigenvalue algorithms."
   },
   {
-    "objectID": "contribute/contribute.html#stopping-criteria-for-iterative-root-finding",
-    "href": "contribute/contribute.html#stopping-criteria-for-iterative-root-finding",
+    "objectID": "contribute/index.html#stopping-criteria-for-iterative-root-finding",
+    "href": "contribute/index.html#stopping-criteria-for-iterative-root-finding",
     "title": "Getting involved",
     "section": "5 Stopping criteria for iterative root finding",
     "text": "5 Stopping criteria for iterative root finding\n  \nWe are seeking collaborators to develop an R package that implements the stopping criteria for iterative root-finding algorithms as proposed by Nikolajsen (2014). These criteria aim to enhance the efficiency of root-finding methods by terminating iterations immediately when no further improvement is possible, reducing computational workload without compromising accuracy.​\nThis project can be a follow-up on Project 4."
   },
   {
-    "objectID": "contribute/contribute.html#glfw-bindings-for-r",
-    "href": "contribute/contribute.html#glfw-bindings-for-r",
+    "objectID": "contribute/index.html#glfw-bindings-for-r",
+    "href": "contribute/index.html#glfw-bindings-for-r",
     "title": "Getting involved",
     "section": "6 GLFW bindings for R",
     "text": "6 GLFW bindings for R\n  \nWe welcome collaborators to contribute to {glfw}, an experimental R package that provides bindings to the GLFW library—a lightweight framework for creating windows, contexts, and managing input in OpenGL-based applications.\n\n\n\nThis project enables R users to interact directly with the GLFW API, opening the door to interactive visualizations, real-time simulations, and even basic game development within the R ecosystem. While R is not typically used for graphics programming at this level, {glfw} explores what’s possible when low-level control meets high-level language flexibility.\nIf any of the following spark your interest, we’d love to collaborate:\n\nYou enjoy programming in C or tinkering with low-level code\nYou have experience (or want to gain some!) with OpenGL or graphics pipelines\nYou’re excited by the idea of making R more interactive and dynamic\nYou’re curious about systems programming, real-time rendering, or just trying something new\n\nIf you’re excited about expanding R’s capabilities into graphics and input systems—or just want to experiment with building high—performance graphical tools—explore the source at https://github.com/ramiromagno/glfw."
   },
   {
-    "objectID": "contribute/contribute.html#plink2",
-    "href": "contribute/contribute.html#plink2",
+    "objectID": "contribute/index.html#plink2",
+    "href": "contribute/index.html#plink2",
     "title": "Getting involved",
     "section": "7 plink2",
     "text": "7 plink2\n  \n{plink2} is an R package under development that aims to provide a high-level interface to PLINK 2, a widely used toolset for genome-wide association studies (GWAS) and population genetics.\nThe goal of this project is to make PLINK 2 workflows more accessible and reproducible within R, allowing users to script, document, and share their analyses using familiar R syntax—while still benefiting from PLINK 2’s speed and efficiency.\nWhat we’re building:\n\nA lightweight R interface to PLINK 2 commands using system calls\nHelpers to manage input/output paths and file formats\nFunctions that wrap common PLINK 2 workflows (e.g., filtering, association testing, PCA)\nStructured outputs returned as tibbles or data frames for seamless integration with tidyverse tools\n\nWho this might interest:\n\nR users working with large-scale genomic data\nResearchers looking to automate and document PLINK 2 pipelines\nContributors interested in building reproducible infrastructure for genetic analysis\n\nThe project is in an early stage, and we’re actively shaping its scope. If you’re familiar with PLINK or interested in bridging the gap between command-line tools and R, we’d love to hear from you.\nExplore the repo at https://github.com/patterninstitute/plink2/."
   },
   {
-    "objectID": "contribute/contribute.html#gwas-ssf-importer-for-r",
-    "href": "contribute/contribute.html#gwas-ssf-importer-for-r",
+    "objectID": "contribute/index.html#gwas-ssf-importer-for-r",
+    "href": "contribute/index.html#gwas-ssf-importer-for-r",
     "title": "Getting involved",
     "section": "8 GWAS-SSF importer for R",
     "text": "8 GWAS-SSF importer for R\n  \nWe’re proposing a new project to create an R package that imports GWAS-SSF (Summary Statistics Format) files—an emerging standard for sharing genome-wide association study (GWAS) summary statistics.\nThe GWAS-SSF format aims to harmonize GWAS summary data across studies by defining a consistent, metadata-rich, tab-delimited format. This R package would help researchers read, validate, and analyze SSF-compliant datasets within R workflows.\nWhat we aim to build:\n\nA robust importer that reads .tsv files and associated metadata.yaml into structured R objects\nInput validation and schema checking (e.g., required columns, field types, ontology term checks)\nSupport for tidy parsing of optional fields (e.g., imputation quality, allele frequency, standard error)\nOptional integration with gwasrapidd or other tools for downstream querying and analysis\nUtilities to coerce or export data into other formats (e.g., PLINK, VCF, or custom table layouts)\n\nWho this might interest:\n\nResearchers working with publicly available GWAS summary statistics\nDevelopers building pipelines for polygenic risk scores or meta-analyses\nContributors interested in genomics data standards and R infrastructure"
   },
   {
-    "objectID": "contribute/contribute.html#rdes-importer-for-r",
-    "href": "contribute/contribute.html#rdes-importer-for-r",
+    "objectID": "contribute/index.html#rdes-importer-for-r",
+    "href": "contribute/index.html#rdes-importer-for-r",
     "title": "Getting involved",
     "section": "9 RDES importer for R",
     "text": "9 RDES importer for R\n  \nWe are seeking collaborators to help build an R package that imports and parses datasets conforming to the RDES specification, part of the RDML ecosystem for qPCR data exchange and analysis.\nThe RDES format provides a structured and interoperable way to share qPCR data, metadata, and analysis results. While tools exist for working with RDML files in other environments (e.g., RDML-Ninja), there is currently no R-native support for RDES. This package would fill that gap by providing clean, standards-compliant access to RDES files for downstream analysis, reproducibility, and reporting.\nThis project is currently in the planning phase. If you’re interested in bridging the gap between open data standards and R-based analysis, join us in shaping the direction of this tool."
   },
   {
-    "objectID": "contribute/contribute.html#sec-geisha",
-    "href": "contribute/contribute.html#sec-geisha",
+    "objectID": "contribute/index.html#sec-geisha",
+    "href": "contribute/index.html#sec-geisha",
     "title": "Getting involved",
     "section": "10 geisha",
     "text": "10 geisha\n  \n{geisha} is a dormant R package project aimed at providing programmatic access to the GEISHA database, a curated resource of gene expression patterns during avian embryonic development—particularly for Gallus gallus (chicken).\nThis project offers a unique opportunity to bridge developmental biology and data science, by enabling researchers and students to query, explore, and analyze gene expression data in a tidy, reproducible R workflow.\n\nWhy revive this?\n\nThe GEISHA database is a rich and underutilized resource for studying spatial and temporal gene expression\nWith growing interest in single-cell and developmental genomics, a modern interface to GEISHA data could enable comparative and integrative analyses\nThe project provides a meaningful entry point for students and early-career contributors interested in combining biology and computation\n\n\n\nProject goals\n\nRestore and modernize the original package structure\nImplement functions to access and parse GEISHA gene expression data (HTML or API, if available)\nTidy the data for use in visualization, clustering, or integration with other genomic datasets\nProvide educational examples for developmental biology students and data science learners\n\n\n\nWho this might interest\n\nStudents curious about developmental biology and gene expression\nR users interested in scientific data wrangling and web scraping\nContributors excited to revive and modernize a meaningful project with strong educational potential\n\nThe project is in a recovery phase—there’s scaffolding to build on, but it needs love, debugging, and design thinking to move forward. If you’re interested in bringing it back to life, we’d love to collaborate.\nExplore the repo at https://github.com/ramiromagno/geisha and reach out to get involved."
   },
   {
-    "objectID": "contribute/contribute.html#ggchick",
-    "href": "contribute/contribute.html#ggchick",
+    "objectID": "contribute/index.html#ggchick",
+    "href": "contribute/index.html#ggchick",
     "title": "Getting involved",
     "section": "11 ggchick",
     "text": "11 ggchick\n  \n{ggchick} is a proposed R package for visualizing early Gallus gallus (chick) embryo anatomical structures using ggplot2 and simple features, inspired by the excellent ggseg package for brain atlas visualization.\nThe aim is to create a flexible and extensible system for plotting developmental atlases across Hamburger-Hamilton stages, allowing researchers and educators to map gene expression, annotations, or experimental data onto chick embryo diagrams.\n\nWhy this matters?\nChick embryos are a classic model in developmental biology, but visual tools for summarizing and communicating spatial gene expression are still lacking. {ggchick} would fill this gap by providing:\n\nStage-specific anatomical outlines as simple feature geometries (sf)\nPredefined ggplot-ready atlases for key Hamburger-Hamilton stages\nFunctions for mapping data (e.g. from {geisha}) onto anatomical regions\nColor palettes, region metadata, and plotting helpers for publications and teaching\n\n\n\nProject goals\n\nCreate or digitize embryo atlas outlines and region labels from open sources\nBuild R datasets with cleaned and stage-structured geometries\nDevelop ggplot2-based functions for customizable plotting\nExplore linking with {geisha} data to create stage-aware expression maps\n\n\n\nWho this might interest\n\nStudents and researchers in developmental biology or bioinformatics\nR users interested in spatial data, simple features, or scientific visualization\nContributors excited by educational tools and data-driven graphics\n\nThis project is in concept phase, with a vision to evolve alongside Project 10 {geisha}. If you’re passionate about data visualization, anatomical mapping, or building tools for the life sciences, we’d love to collaborate."
   },
   {
-    "objectID": "contribute/contribute.html#complyr",
-    "href": "contribute/contribute.html#complyr",
+    "objectID": "contribute/index.html#complyr",
+    "href": "contribute/index.html#complyr",
     "title": "Getting involved",
     "section": "12 complyr",
     "text": "12 complyr\n  \n{complyr} is an R package in concept phase designed to bring structure, reusability, and transparency to compliance testing. It enables method developers and auditors to define gold-standard expectations and test code against them—using a consistent, testthat-powered grammar that integrates with R package development and CI workflows.\n\nGiven enough rules, all code conforms.\n\nMany domains—especially in regulated research, clinical pipelines, scientific reproducibility, or teaching—require that code and methods conform to specific standards. {complyr} formalizes that need by allowing compliance logic to live in its own well-documented layer:\n\nAuditor packages define the rules and reference implementations\nMethod packages declare compliance using roxygen tags (e.g., @comply auditor.test)\nCompliance tests are reproducible, versionable, and CI-compatible\n\nThis decouples method implementation from evaluation criteria, allowing third-party validation, shared compliance standards, and better communication of expectations.\nThe project is actively evolving and welcomes contributions, feedback, and use cases from anyone interested in reproducibility, scientific software, or robust API behavior.\nExplore the code at https://github.com/patterninstitute/complyr/ and join us in building better tools for trust and transparency in computation."
+  },
+  {
+    "objectID": "contribute/index.html#qpcr-simulator",
+    "href": "contribute/index.html#qpcr-simulator",
+    "title": "Getting involved",
+    "section": "13 qPCR simulator",
+    "text": "13 qPCR simulator\n  \nQuantitative PCR (qPCR) is a core molecular biology technique for measuring gene expression and DNA/RNA quantification. Despite its ubiquity, many early-career researchers begin using qPCR without fully understanding how experimental design choices—such as cycle thresholds, primer efficiencies, or replicate structure—affect the data they will later be expected to analyze.\nThis proposal aims to create a qPCR simulation environment in R: a pair of R packages designed to help users explore and learn the qPCR workflow in silico. The first package will simulate qPCR experiments with configurable parameters and noise models, producing realistic datasets suitable for downstream analysis. The second package will offer a Shiny-based graphical interface that allows users to explore the same simulation workflows interactively, without writing code.\nRather than building a digital twin of a specific instrument, this platform will serve as a sandbox for training and planning—enabling researchers to ask “what if” questions, test normalization methods, and learn best practices before stepping into the lab. Simulation outputs will be fully compatible with existing qPCR analysis packages, encouraging integration into teaching pipelines and reproducible reporting frameworks."
   },
   {
     "objectID": "about/about.html",
