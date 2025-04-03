@@ -157,6 +157,7 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#complyr" id="toc-complyr" class="nav-link" data-scroll-target="#complyr"><span class="header-section-number">12</span> complyr</a></li>
   <li><a href="#qpcr-simulator" id="toc-qpcr-simulator" class="nav-link" data-scroll-target="#qpcr-simulator"><span class="header-section-number">13</span> qPCR simulator</a></li>
+  <li><a href="#hyperreal" id="toc-hyperreal" class="nav-link" data-scroll-target="#hyperreal"><span class="header-section-number">14</span> hyperreal</a></li>
   </ul>
 </nav>
 </nav>
@@ -394,6 +395,12 @@ ul.task-list li input[type="checkbox"] {
 <p>Quantitative PCR (qPCR) is a core molecular biology technique for measuring gene expression and DNA/RNA quantification. Despite its ubiquity, many early-career researchers begin using qPCR without fully understanding how experimental design choices—such as cycle thresholds, primer efficiencies, or replicate structure—affect the data they will later be expected to analyze.</p>
 <p>This proposal aims to create a qPCR simulation environment in R: a pair of R packages designed to help users explore and learn the qPCR workflow in silico. The first package will simulate qPCR experiments with configurable parameters and noise models, producing realistic datasets suitable for downstream analysis. The second package will offer a <a href="https://shiny.posit.co/r">Shiny</a>-based graphical interface that allows users to explore the same simulation workflows interactively, without writing code.</p>
 <p>Rather than building a digital twin of a specific instrument, this platform will serve as a sandbox for training and planning—enabling researchers to ask “what if” questions, test normalization methods, and learn best practices before stepping into the lab. Simulation outputs will be fully compatible with existing qPCR analysis packages, encouraging integration into teaching pipelines and reproducible reporting frameworks.</p>
+</section>
+<section id="hyperreal" class="level2" data-number="14">
+<h2 data-number="14" class="anchored" data-anchor-id="hyperreal"><span class="header-section-number">14</span> hyperreal</h2>
+<p><img src="https://img.shields.io/badge/language-R-blue.svg" class="img-fluid"> <img src="https://img.shields.io/badge/stage-concept-orange.svg" class="img-fluid"> <img src="https://img.shields.io/badge/difficulty-advanced-red.svg" class="img-fluid"></p>
+<p>This is a concept project for bringing infinitesimals into R with hyperreal arithmetic.</p>
+<p>Using the <a href="https://vctrs.r-lib.org/">vctrs</a> framework, create a new vector class that mimics nonstandard analysis, enabling intuitive derivatives, integrals, and simulations of dynamical systems using infinitesimal steps. This project bridges symbolic and numerical computation, offering hands-on experience in modern R programming, abstract algebra, and the foundations of calculus—all while building a tool that could transform how we teach and explore change in complex systems.</p>
 
 
 </section>

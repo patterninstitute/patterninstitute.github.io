@@ -294,6 +294,13 @@
     "text": "13 qPCR simulator\n  \nQuantitative PCR (qPCR) is a core molecular biology technique for measuring gene expression and DNA/RNA quantification. Despite its ubiquity, many early-career researchers begin using qPCR without fully understanding how experimental design choices—such as cycle thresholds, primer efficiencies, or replicate structure—affect the data they will later be expected to analyze.\nThis proposal aims to create a qPCR simulation environment in R: a pair of R packages designed to help users explore and learn the qPCR workflow in silico. The first package will simulate qPCR experiments with configurable parameters and noise models, producing realistic datasets suitable for downstream analysis. The second package will offer a Shiny-based graphical interface that allows users to explore the same simulation workflows interactively, without writing code.\nRather than building a digital twin of a specific instrument, this platform will serve as a sandbox for training and planning—enabling researchers to ask “what if” questions, test normalization methods, and learn best practices before stepping into the lab. Simulation outputs will be fully compatible with existing qPCR analysis packages, encouraging integration into teaching pipelines and reproducible reporting frameworks."
   },
   {
+    "objectID": "contribute/index.html#hyperreal",
+    "href": "contribute/index.html#hyperreal",
+    "title": "Getting involved",
+    "section": "14 hyperreal",
+    "text": "14 hyperreal\n  \nThis is a concept project for bringing infinitesimals into R with hyperreal arithmetic.\nUsing the vctrs framework, create a new vector class that mimics nonstandard analysis, enabling intuitive derivatives, integrals, and simulations of dynamical systems using infinitesimal steps. This project bridges symbolic and numerical computation, offering hands-on experience in modern R programming, abstract algebra, and the foundations of calculus—all while building a tool that could transform how we teach and explore change in complex systems."
+  },
+  {
     "objectID": "training/rmind-2023/rmind-2023.html",
     "href": "training/rmind-2023/rmind-2023.html",
     "title": "R-Mind",
